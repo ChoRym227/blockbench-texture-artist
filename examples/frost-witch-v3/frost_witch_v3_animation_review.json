@@ -1,0 +1,78 @@
+{
+  "hz": 20,
+  "clips": [
+    {
+      "clip": "idle",
+      "samples": 61,
+      "max_grip_error": 0.0,
+      "max_wrist_rotation_deg": 3.61,
+      "min_weapon_y": -0.15,
+      "ground_candidate_frames": 0,
+      "intentional_ground_clip": false,
+      "collision_frames": 0,
+      "collision_pairs": {},
+      "max_axis_speed_deg_s": 0.0
+    },
+    {
+      "clip": "walk",
+      "samples": 29,
+      "max_grip_error": 0.0,
+      "max_wrist_rotation_deg": 2.0,
+      "min_weapon_y": -0.15,
+      "ground_candidate_frames": 0,
+      "intentional_ground_clip": false,
+      "collision_frames": 0,
+      "collision_pairs": {},
+      "max_axis_speed_deg_s": 0
+    },
+    {
+      "clip": "cast",
+      "samples": 49,
+      "max_grip_error": 0.0,
+      "max_wrist_rotation_deg": 40.0,
+      "min_weapon_y": 0.0,
+      "ground_candidate_frames": 0,
+      "intentional_ground_clip": false,
+      "collision_frames": 0,
+      "collision_pairs": {},
+      "max_axis_speed_deg_s": 40.25
+    },
+    {
+      "clip": "attack",
+      "samples": 37,
+      "max_grip_error": 0.0,
+      "max_wrist_rotation_deg": 42.0,
+      "min_weapon_y": 0.0,
+      "ground_candidate_frames": 0,
+      "intentional_ground_clip": false,
+      "collision_frames": 0,
+      "collision_pairs": {},
+      "max_axis_speed_deg_s": 237.82
+    },
+    {
+      "clip": "hurt",
+      "samples": 11,
+      "max_grip_error": 0.0,
+      "max_wrist_rotation_deg": 11.4,
+      "min_weapon_y": -0.15,
+      "ground_candidate_frames": 0,
+      "intentional_ground_clip": false,
+      "collision_frames": 0,
+      "collision_pairs": {},
+      "max_axis_speed_deg_s": 0.0
+    },
+    {
+      "clip": "death",
+      "samples": 51,
+      "max_grip_error": 0.0,
+      "max_wrist_rotation_deg": 15.61,
+      "min_weapon_y": 0.0,
+      "ground_candidate_frames": 0,
+      "intentional_ground_clip": true,
+      "collision_frames": 0,
+      "collision_pairs": {},
+      "max_axis_speed_deg_s": 77.39
+    }
+  ],
+  "limitations": "Numeric linear keys, XYZ Euler approximation, cube OBB candidates with 0.08 unit tolerance; excludes declared hand contact bones. No actual engine evaluation; inspect collision candidates visually."
+}

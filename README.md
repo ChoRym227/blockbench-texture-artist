@@ -6,6 +6,22 @@ Minecraft 몬스터, 보스, 장비의 픽셀 아트 텍스처와 UV 매핑 품�
 
 [English overview](#english-overview) · [SKILL.md](SKILL.md) · [스킬 ZIP 다운로드](blockbench-texture-artist.zip) · [제작 예제](examples/mushroom-spirit/)
 
+## v3 — Weapon design and grip
+
+무기 문양, 파지 기준점, 손목 본, 공격 방향 보정과 20Hz 애니메이션 검사를 추가했습니다. V2의 형태/UV 규칙을 유지합니다.
+
+![Frost Witch V3 weapon comparison](examples/frost-witch-v3/frost_witch_v3_weapon_comparison.png)
+
+[Frost Witch V3 BBMODEL](examples/frost-witch-v3/frost_witch_v3.bbmodel) · [애니메이션 검수](examples/frost-witch-v3/frost_witch_v3_animation_review.json)
+
+```bash
+python -m pip install -r requirements.txt
+python scripts/check_uv.py examples/frost-witch-v3/frost_witch_v3.bbmodel
+python scripts/check_weapon_grip.py examples/frost-witch-v3/frost_witch_v3.bbmodel --config examples/frost-witch-v3/frost_witch_v3_grip.json
+```
+
+The animation checker approximates numeric linear XYZ Euler animation; it does not validate actual ModelEngine runtime.
+
 ## Preview
 
 ### Mushroom Spirit / 버섯 정령
@@ -15,6 +31,10 @@ Minecraft 몬스터, 보스, 장비의 픽셀 아트 텍스처와 UV 매핑 품�
 | Model | Texture | Preview |
 | --- | --- | --- |
 | [BBMODEL](examples/mushroom-spirit/mushroom_spirit.bbmodel) | [PNG](examples/mushroom-spirit/mushroom_spirit.png) | [PNG](examples/mushroom-spirit/mushroom_spirit_preview.png) |
+
+## v2 — 모델링 품질 개선
+
+인간형 비례와 관절, 넓은 천 덩어리 기반 망토/로브, 장척 라인 큐브 제한, 무텍스처 실루엣 검수 규칙을 추가했습니다. 기존 UV 규칙은 유지합니다. `python scripts/check_geometry.py model.bbmodel`로 검토 후보를 확인할 수 있습니다. 자동 검사는 미술 검수나 엔진 호환성 검사를 대체하지 않습니다. [변경 사항](CHANGELOG.md). 기존 버섯 정령 예제는 v1 제작 결과입니다.
 
 ## 주요 기능
 
@@ -76,6 +96,8 @@ Minecraft 1.21.4 / ModelEngine 4를 대상으로 하고, 128×128 텍스처 아�
 blockbench-texture-artist/
 ├── README.md
 ├── SKILL.md
+├── CHANGELOG.md
+├── scripts/check_geometry.py
 ├── blockbench-texture-artist.zip
 └── examples/
     └── mushroom-spirit/
@@ -99,3 +121,6 @@ Blockbench Texture Artist is an AI-agent skill for creating and revising Minecra
 It prioritizes consistent texel density, dimension-matched per-face UVs, intentional UV reuse, pixel clustering, controlled material palettes, atlas packing and explicit validation. Existing model hierarchies and animations should be preserved unless changes are requested. The skill is an instruction set, not a standalone generator or a Blockbench plugin. File-generation and runtime capabilities depend on the host environment.
 
 To use it, download the skill ZIP or place `SKILL.md` in the skill location supported by your AI environment. Attach a reference image or `.bbmodel`, specify your target environment and request the required output files. The example has not been runtime-tested in Blockbench or ModelEngine 4.
+
+
+**Update:** v3.1 refines focal weapon rendering by improving lantern/core texture readability and removing awkward rear support cubes from the Frost Witch staff example.

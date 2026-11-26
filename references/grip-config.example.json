@@ -1,0 +1,27 @@
+{
+  "hand_bone": "hand_right",
+  "weapon_bone": "staff",
+  "grip": [
+    23.5,
+    40,
+    -5
+  ],
+  "hand_anchor": [
+    23.5,
+    40,
+    -5
+  ],
+  "weapon_axis": [
+    0,
+    1,
+    0
+  ],
+  "ground_y": 0,
+  "allowed_contact_bones": [
+    "hand_right"
+  ],
+  "ground_tolerance": 1.0,
+  "intentional_ground_clips": [
+    "death"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "elements": 116,
+  "flagged": 3,
+  "cloth_high": 0,
+  "candidates": [
+    {
+      "name": "calf_left",
+      "uuid": "317e1ac9-d43f-4129-b38f-96493fe287de",
+      "dimensions_sorted": [
+        4.0,
+        4.0,
+        12.0
+      ],
+      "aspect_ratio": 3.0,
+      "review": "long_thin"
+    },
+    {
+      "name": "calf_right",
+      "uuid": "b70fea35-dd9d-4366-88c5-1e2326add1c4",
+      "dimensions_sorted": [
+        4.0,
+        4.0,
+        12.0
+      ],
+      "aspect_ratio": 3.0,
+      "review": "long_thin"
+    },
+    {
+      "name": "staff_shaft",
+      "uuid": "8e442801-e9f0-4428-80c7-ddcd9694da70",
+      "dimensions_sorted": [
+        2.0,
+        2.0,
+        58.0
+      ],
+      "aspect_ratio": 29.0,
+      "review": "long_thin"
+    }
+  ],
+  "limitations": "Name-based cloth heuristic and local dimensions only. Review actual role, adjacency, silhouette, joints, UVs and runtime separately. Flags are not automatic failures."
+}
