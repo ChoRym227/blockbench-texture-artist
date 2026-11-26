@@ -122,3 +122,7 @@ Minecraft Paper 1.21.4 / ModelEngine 4 / Blockbench. 사용자 지정 환경이 
 - Review the weapon in front, 3/4, side, and back views before finalizing.
 - Verify that shallow decoration uses texture/UV by default; use cubes only for silhouette-relevant structure.
 - If the prop has a glowing core, ensure the front face remains the visual focus and the side/rear faces do not overpower it.
+
+
+## V4 Combat Motion Gate
+Read [Combat stance and choreography](references/combat-stance-and-choreography.md) for every armed humanoid motion task. A zero-collision report alone is not a visual approval. Reference animation access, actual retargeting, and independently authored approximations must be clearly distinguished.

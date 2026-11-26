@@ -1,3 +1,6 @@
+# V4 motion quality update
+- Added reference provenance, weapon-led choreography, planted foot targets, wrist neutral frame, motion comparison and transition review.
+
 # Changelog
 
 ## v3.1
