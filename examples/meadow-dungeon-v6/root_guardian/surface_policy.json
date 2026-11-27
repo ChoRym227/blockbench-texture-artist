@@ -1,0 +1,191 @@
+{
+  "chest_heart": {
+    "protected_faces": [
+      "north"
+    ],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "forearm_plate_-1": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "knuckles_-1": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "forearm_plate_1": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "knuckles_1": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "head_moss": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "back_moss": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "head_bloom_pollen": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "head_bloom_petal0": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "head_bloom_petal1": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "head_bloom_petal2": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "head_bloom_petal3": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "shoulder_bloom_pollen": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "shoulder_bloom_petal0": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "shoulder_bloom_petal1": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "shoulder_bloom_petal2": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "shoulder_bloom_petal3": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  }
+}

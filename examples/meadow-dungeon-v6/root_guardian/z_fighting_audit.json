@@ -1,0 +1,1003 @@
+{
+  "samples": 324,
+  "counts": {
+    "opposing_contact": 1094
+  },
+  "unique_by_kind": {
+    "opposing_contact": 33
+  },
+  "issues": [
+    {
+      "cube_a": "pelvis",
+      "face_a": "down",
+      "cube_b": "leg_-1_joint",
+      "face_b": "up",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 14.700000000000001,
+      "kind": "opposing_contact",
+      "i": 0,
+      "j": 26,
+      "normal": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "local_normal_a": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "local_normal_b": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube_a": "pelvis",
+      "face_a": "down",
+      "cube_b": "leg_1_joint",
+      "face_b": "up",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 14.700000000000001,
+      "kind": "opposing_contact",
+      "i": 0,
+      "j": 37,
+      "normal": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "local_normal_a": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "local_normal_b": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube_a": "rib_core",
+      "face_a": "north",
+      "cube_b": "chest_heart",
+      "face_b": "south",
+      "plane_distance": -0.04999999999999982,
+      "max_plane_distance": 0.04999999999999982,
+      "overlap_area": 24.0,
+      "kind": "opposing_contact",
+      "i": 2,
+      "j": 4,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube_a": "elbow_-1",
+      "face_a": "north",
+      "cube_b": "forearm_plate_-1",
+      "face_b": "south",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 8.0,
+      "kind": "opposing_contact",
+      "i": 20,
+      "j": 22,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube_a": "elbow_1",
+      "face_a": "north",
+      "cube_b": "forearm_plate_1",
+      "face_b": "south",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 8.0,
+      "kind": "opposing_contact",
+      "i": 31,
+      "j": 33,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube_a": "pelvis",
+      "face_a": "down",
+      "cube_b": "leg_-1_joint",
+      "face_b": "up",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 14.700000000000001,
+      "kind": "opposing_contact",
+      "i": 0,
+      "j": 26,
+      "normal": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "local_normal_a": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "local_normal_b": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "clip": "idle",
+      "time": 0.0,
+      "hits": 53
+    },
+    {
+      "cube_a": "pelvis",
+      "face_a": "down",
+      "cube_b": "leg_1_joint",
+      "face_b": "up",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 14.700000000000001,
+      "kind": "opposing_contact",
+      "i": 0,
+      "j": 37,
+      "normal": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "local_normal_a": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "local_normal_b": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "clip": "idle",
+      "time": 0.0,
+      "hits": 53
+    },
+    {
+      "cube_a": "rib_core",
+      "face_a": "north",
+      "cube_b": "chest_heart",
+      "face_b": "south",
+      "plane_distance": -0.04999999999999982,
+      "max_plane_distance": 0.04999999999999982,
+      "overlap_area": 24.0,
+      "kind": "opposing_contact",
+      "i": 2,
+      "j": 4,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "idle",
+      "time": 0.0,
+      "hits": 53
+    },
+    {
+      "cube_a": "elbow_-1",
+      "face_a": "north",
+      "cube_b": "forearm_plate_-1",
+      "face_b": "south",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 8.0,
+      "kind": "opposing_contact",
+      "i": 20,
+      "j": 22,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "idle",
+      "time": 0.0,
+      "hits": 53
+    },
+    {
+      "cube_a": "elbow_1",
+      "face_a": "north",
+      "cube_b": "forearm_plate_1",
+      "face_b": "south",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 8.0,
+      "kind": "opposing_contact",
+      "i": 31,
+      "j": 33,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "idle",
+      "time": 0.0,
+      "hits": 53
+    },
+    {
+      "cube_a": "rib_core",
+      "face_a": "north",
+      "cube_b": "chest_heart",
+      "face_b": "south",
+      "plane_distance": -0.04999999999999982,
+      "max_plane_distance": 0.04999999999999982,
+      "overlap_area": 24.0,
+      "kind": "opposing_contact",
+      "i": 2,
+      "j": 4,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "walk",
+      "time": 0.0,
+      "hits": 44
+    },
+    {
+      "cube_a": "elbow_-1",
+      "face_a": "north",
+      "cube_b": "forearm_plate_-1",
+      "face_b": "south",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 7.999999999999996,
+      "kind": "opposing_contact",
+      "i": 20,
+      "j": 22,
+      "normal": [
+        0.0,
+        -0.3583679495453003,
+        -0.9335804264972017
+      ],
+      "local_normal_a": [
+        0.0,
+        -7.431954516026873e-17,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        -7.431954516026873e-17,
+        -1.0
+      ],
+      "clip": "walk",
+      "time": 0.0,
+      "hits": 44
+    },
+    {
+      "cube_a": "elbow_1",
+      "face_a": "north",
+      "cube_b": "forearm_plate_1",
+      "face_b": "south",
+      "plane_distance": 2.3592239273284576e-16,
+      "max_plane_distance": 5.551115123125783e-16,
+      "overlap_area": 7.999999999999995,
+      "kind": "opposing_contact",
+      "i": 31,
+      "j": 33,
+      "normal": [
+        0.0,
+        0.052335956242943724,
+        -0.9986295347545739
+      ],
+      "local_normal_a": [
+        0.0,
+        -1.0304079777141817e-16,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        -1.0304079777141817e-16,
+        -1.0
+      ],
+      "clip": "walk",
+      "time": 0.0,
+      "hits": 44
+    },
+    {
+      "cube_a": "pelvis",
+      "face_a": "down",
+      "cube_b": "leg_-1_joint",
+      "face_b": "up",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 14.700000000000001,
+      "kind": "opposing_contact",
+      "i": 0,
+      "j": 26,
+      "normal": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "local_normal_a": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "local_normal_b": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "clip": "attack",
+      "time": 0.0,
+      "hits": 2
+    },
+    {
+      "cube_a": "pelvis",
+      "face_a": "down",
+      "cube_b": "leg_1_joint",
+      "face_b": "up",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 14.700000000000001,
+      "kind": "opposing_contact",
+      "i": 0,
+      "j": 37,
+      "normal": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "local_normal_a": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "local_normal_b": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "clip": "attack",
+      "time": 0.0,
+      "hits": 2
+    },
+    {
+      "cube_a": "rib_core",
+      "face_a": "north",
+      "cube_b": "chest_heart",
+      "face_b": "south",
+      "plane_distance": -0.04999999999999982,
+      "max_plane_distance": 0.04999999999999982,
+      "overlap_area": 24.0,
+      "kind": "opposing_contact",
+      "i": 2,
+      "j": 4,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "attack",
+      "time": 0.0,
+      "hits": 65
+    },
+    {
+      "cube_a": "elbow_-1",
+      "face_a": "north",
+      "cube_b": "forearm_plate_-1",
+      "face_b": "south",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 8.0,
+      "kind": "opposing_contact",
+      "i": 20,
+      "j": 22,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "attack",
+      "time": 0.0,
+      "hits": 65
+    },
+    {
+      "cube_a": "elbow_1",
+      "face_a": "north",
+      "cube_b": "forearm_plate_1",
+      "face_b": "south",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 8.0,
+      "kind": "opposing_contact",
+      "i": 31,
+      "j": 33,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "attack",
+      "time": 0.0,
+      "hits": 65
+    },
+    {
+      "cube_a": "pelvis",
+      "face_a": "down",
+      "cube_b": "leg_-1_joint",
+      "face_b": "up",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 14.700000000000001,
+      "kind": "opposing_contact",
+      "i": 0,
+      "j": 26,
+      "normal": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "local_normal_a": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "local_normal_b": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "clip": "skill",
+      "time": 0.0,
+      "hits": 2
+    },
+    {
+      "cube_a": "pelvis",
+      "face_a": "down",
+      "cube_b": "leg_1_joint",
+      "face_b": "up",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 14.700000000000001,
+      "kind": "opposing_contact",
+      "i": 0,
+      "j": 37,
+      "normal": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "local_normal_a": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "local_normal_b": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "clip": "skill",
+      "time": 0.0,
+      "hits": 2
+    },
+    {
+      "cube_a": "rib_core",
+      "face_a": "north",
+      "cube_b": "chest_heart",
+      "face_b": "south",
+      "plane_distance": -0.04999999999999982,
+      "max_plane_distance": 0.04999999999999982,
+      "overlap_area": 24.0,
+      "kind": "opposing_contact",
+      "i": 2,
+      "j": 4,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "skill",
+      "time": 0.0,
+      "hits": 80
+    },
+    {
+      "cube_a": "elbow_-1",
+      "face_a": "north",
+      "cube_b": "forearm_plate_-1",
+      "face_b": "south",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 8.0,
+      "kind": "opposing_contact",
+      "i": 20,
+      "j": 22,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "skill",
+      "time": 0.0,
+      "hits": 80
+    },
+    {
+      "cube_a": "elbow_1",
+      "face_a": "north",
+      "cube_b": "forearm_plate_1",
+      "face_b": "south",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 8.0,
+      "kind": "opposing_contact",
+      "i": 31,
+      "j": 33,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "skill",
+      "time": 0.0,
+      "hits": 80
+    },
+    {
+      "cube_a": "pelvis",
+      "face_a": "down",
+      "cube_b": "leg_-1_joint",
+      "face_b": "up",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 14.700000000000001,
+      "kind": "opposing_contact",
+      "i": 0,
+      "j": 26,
+      "normal": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "local_normal_a": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "local_normal_b": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "clip": "hurt",
+      "time": 0.0,
+      "hits": 2
+    },
+    {
+      "cube_a": "pelvis",
+      "face_a": "down",
+      "cube_b": "leg_1_joint",
+      "face_b": "up",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 14.700000000000001,
+      "kind": "opposing_contact",
+      "i": 0,
+      "j": 37,
+      "normal": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "local_normal_a": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "local_normal_b": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "clip": "hurt",
+      "time": 0.0,
+      "hits": 2
+    },
+    {
+      "cube_a": "rib_core",
+      "face_a": "north",
+      "cube_b": "chest_heart",
+      "face_b": "south",
+      "plane_distance": -0.04999999999999982,
+      "max_plane_distance": 0.04999999999999982,
+      "overlap_area": 24.0,
+      "kind": "opposing_contact",
+      "i": 2,
+      "j": 4,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "hurt",
+      "time": 0.0,
+      "hits": 21
+    },
+    {
+      "cube_a": "elbow_-1",
+      "face_a": "north",
+      "cube_b": "forearm_plate_-1",
+      "face_b": "south",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 8.0,
+      "kind": "opposing_contact",
+      "i": 20,
+      "j": 22,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "hurt",
+      "time": 0.0,
+      "hits": 21
+    },
+    {
+      "cube_a": "elbow_1",
+      "face_a": "north",
+      "cube_b": "forearm_plate_1",
+      "face_b": "south",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 8.0,
+      "kind": "opposing_contact",
+      "i": 31,
+      "j": 33,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "hurt",
+      "time": 0.0,
+      "hits": 21
+    },
+    {
+      "cube_a": "pelvis",
+      "face_a": "down",
+      "cube_b": "leg_-1_joint",
+      "face_b": "up",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 14.700000000000001,
+      "kind": "opposing_contact",
+      "i": 0,
+      "j": 26,
+      "normal": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "local_normal_a": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "local_normal_b": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "clip": "death",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube_a": "pelvis",
+      "face_a": "down",
+      "cube_b": "leg_1_joint",
+      "face_b": "up",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 14.700000000000001,
+      "kind": "opposing_contact",
+      "i": 0,
+      "j": 37,
+      "normal": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "local_normal_a": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "local_normal_b": [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "clip": "death",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube_a": "rib_core",
+      "face_a": "north",
+      "cube_b": "chest_heart",
+      "face_b": "south",
+      "plane_distance": -0.04999999999999982,
+      "max_plane_distance": 0.04999999999999982,
+      "overlap_area": 24.0,
+      "kind": "opposing_contact",
+      "i": 2,
+      "j": 4,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "death",
+      "time": 0.0,
+      "hits": 60
+    },
+    {
+      "cube_a": "elbow_-1",
+      "face_a": "north",
+      "cube_b": "forearm_plate_-1",
+      "face_b": "south",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 8.0,
+      "kind": "opposing_contact",
+      "i": 20,
+      "j": 22,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "death",
+      "time": 0.0,
+      "hits": 60
+    },
+    {
+      "cube_a": "elbow_1",
+      "face_a": "north",
+      "cube_b": "forearm_plate_1",
+      "face_b": "south",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 8.0,
+      "kind": "opposing_contact",
+      "i": 31,
+      "j": 33,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "death",
+      "time": 0.0,
+      "hits": 60
+    }
+  ],
+  "unsupported": [],
+  "limits": "Numeric linear XYZ Euler approximation; normals within 0.1 degrees of parallel or antiparallel, exact distance <= 0.0001, near distance <= configured threshold; no occlusion, alpha-mask, runtime or continuous-time guarantee. Opposing contact requires separate review."
+}

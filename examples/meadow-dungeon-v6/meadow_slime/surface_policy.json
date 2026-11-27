@@ -1,0 +1,79 @@
+{
+  "sprout_leaf_l": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "sprout_leaf_r": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "bloom_pollen": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "bloom_petal0": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "bloom_petal1": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "bloom_petal2": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "bloom_petal3": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  }
+}

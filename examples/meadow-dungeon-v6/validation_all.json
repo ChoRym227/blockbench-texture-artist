@@ -1,0 +1,175 @@
+[
+  {
+    "id": "meadow_slime",
+    "cubes": 12,
+    "animations": 5,
+    "uv": {
+      "faces": 72,
+      "unique_uv": 34,
+      "shared_faces": 38,
+      "errors": [],
+      "limitations": "Exact rectangle sharing allowed; artistic compatibility requires review."
+    },
+    "geometry": {
+      "elements": 12,
+      "flagged": 0,
+      "cloth_high": 0,
+      "candidates": [],
+      "limitations": "Name-based cloth heuristic and local dimensions only. Review actual role, adjacency, silhouette, joints, UVs and runtime separately. Flags are not automatic failures."
+    },
+    "surface_samples": 139,
+    "protected_before_rest": 0,
+    "protected_after_rest": 0,
+    "protected_hits": 0,
+    "protected_faces": 0,
+    "rest_partial_coverage": 93,
+    "rest_fully_covered": 4,
+    "z_counts": {
+      "opposing_contact": 142
+    },
+    "detail_faces": 35,
+    "detail_warnings": 0,
+    "unsupported": [],
+    "animation_tracks_unchanged": true,
+    "attachment_checks": 0,
+    "attachment_warnings": 0
+  },
+  {
+    "id": "pollen_moth",
+    "cubes": 34,
+    "animations": 6,
+    "uv": {
+      "faces": 204,
+      "unique_uv": 50,
+      "shared_faces": 154,
+      "errors": [],
+      "limitations": "Exact rectangle sharing allowed; artistic compatibility requires review."
+    },
+    "geometry": {
+      "elements": 34,
+      "flagged": 0,
+      "cloth_high": 0,
+      "candidates": [],
+      "limitations": "Name-based cloth heuristic and local dimensions only. Review actual role, adjacency, silhouette, joints, UVs and runtime separately. Flags are not automatic failures."
+    },
+    "surface_samples": 238,
+    "protected_before_rest": 0,
+    "protected_after_rest": 0,
+    "protected_hits": 0,
+    "protected_faces": 0,
+    "rest_partial_coverage": 368,
+    "rest_fully_covered": 8,
+    "z_counts": {},
+    "detail_faces": 55,
+    "detail_warnings": 0,
+    "unsupported": [],
+    "animation_tracks_unchanged": true,
+    "attachment_checks": 0,
+    "attachment_warnings": 0
+  },
+  {
+    "id": "root_guardian",
+    "cubes": 49,
+    "animations": 6,
+    "uv": {
+      "faces": 294,
+      "unique_uv": 95,
+      "shared_faces": 199,
+      "errors": [],
+      "limitations": "Exact rectangle sharing allowed; artistic compatibility requires review."
+    },
+    "geometry": {
+      "elements": 49,
+      "flagged": 0,
+      "cloth_high": 0,
+      "candidates": [],
+      "limitations": "Name-based cloth heuristic and local dimensions only. Review actual role, adjacency, silhouette, joints, UVs and runtime separately. Flags are not automatic failures."
+    },
+    "surface_samples": 324,
+    "protected_before_rest": 0,
+    "protected_after_rest": 0,
+    "protected_hits": 0,
+    "protected_faces": 1,
+    "rest_partial_coverage": 641,
+    "rest_fully_covered": 21,
+    "z_counts": {
+      "opposing_contact": 1094
+    },
+    "detail_faces": 85,
+    "detail_warnings": 0,
+    "unsupported": [],
+    "animation_tracks_unchanged": true,
+    "attachment_checks": 6,
+    "attachment_warnings": 0
+  },
+  {
+    "id": "thorn_boar",
+    "cubes": 53,
+    "animations": 6,
+    "uv": {
+      "faces": 318,
+      "unique_uv": 78,
+      "shared_faces": 240,
+      "errors": [],
+      "limitations": "Exact rectangle sharing allowed; artistic compatibility requires review."
+    },
+    "geometry": {
+      "elements": 53,
+      "flagged": 0,
+      "cloth_high": 0,
+      "candidates": [],
+      "limitations": "Name-based cloth heuristic and local dimensions only. Review actual role, adjacency, silhouette, joints, UVs and runtime separately. Flags are not automatic failures."
+    },
+    "surface_samples": 247,
+    "protected_before_rest": 17,
+    "protected_after_rest": 0,
+    "protected_hits": 0,
+    "protected_faces": 6,
+    "rest_partial_coverage": 609,
+    "rest_fully_covered": 15,
+    "z_counts": {
+      "opposing_contact": 240
+    },
+    "detail_faces": 80,
+    "detail_warnings": 0,
+    "unsupported": [],
+    "animation_tracks_unchanged": true,
+    "attachment_checks": 16,
+    "attachment_warnings": 0
+  },
+  {
+    "id": "verdant_stag",
+    "cubes": 90,
+    "animations": 6,
+    "uv": {
+      "faces": 540,
+      "unique_uv": 108,
+      "shared_faces": 432,
+      "errors": [],
+      "limitations": "Exact rectangle sharing allowed; artistic compatibility requires review."
+    },
+    "geometry": {
+      "elements": 90,
+      "flagged": 0,
+      "cloth_high": 0,
+      "candidates": [],
+      "limitations": "Name-based cloth heuristic and local dimensions only. Review actual role, adjacency, silhouette, joints, UVs and runtime separately. Flags are not automatic failures."
+    },
+    "surface_samples": 301,
+    "protected_before_rest": 18,
+    "protected_after_rest": 0,
+    "protected_hits": 0,
+    "protected_faces": 9,
+    "rest_partial_coverage": 1193,
+    "rest_fully_covered": 34,
+    "z_counts": {
+      "opposing_contact": 918
+    },
+    "detail_faces": 145,
+    "detail_warnings": 0,
+    "unsupported": [],
+    "animation_tracks_unchanged": true,
+    "attachment_checks": 19,
+    "attachment_warnings": 0
+  }
+]

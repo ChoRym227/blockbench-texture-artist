@@ -1,0 +1,6251 @@
+{
+  "samples": 247,
+  "counts": {
+    "partial_coverage": 609,
+    "fully_covered": 15
+  },
+  "issues": [
+    {
+      "cube": "ribcage",
+      "face": "north",
+      "other": "shoulder_hump",
+      "fraction": 0.444439,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ribcage",
+      "face": "north",
+      "other": "neck",
+      "fraction": 0.466648,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ribcage",
+      "face": "north",
+      "other": "skull",
+      "fraction": 0.622197,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ribcage",
+      "face": "south",
+      "other": "rump",
+      "fraction": 0.622197,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ribcage",
+      "face": "south",
+      "other": "belly",
+      "fraction": 0.272214,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ribcage",
+      "face": "south",
+      "other": "back_-1_upper",
+      "fraction": 0.036508,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ribcage",
+      "face": "south",
+      "other": "back_1_upper",
+      "fraction": 0.036508,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ribcage",
+      "face": "east",
+      "other": "shoulder_hump",
+      "fraction": 0.256404,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ribcage",
+      "face": "east",
+      "other": "bramble_plate_1_2",
+      "fraction": 0.011965,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ribcage",
+      "face": "west",
+      "other": "shoulder_hump",
+      "fraction": 0.256404,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ribcage",
+      "face": "west",
+      "other": "bramble_plate_-1_2",
+      "fraction": 0.011965,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ribcage",
+      "face": "up",
+      "other": "shoulder_hump",
+      "fraction": 0.576917,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ribcage",
+      "face": "up",
+      "other": "bramble_plate_-1_2",
+      "fraction": 0.146149,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ribcage",
+      "face": "up",
+      "other": "bramble_plate_1_2",
+      "fraction": 0.146149,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ribcage",
+      "face": "down",
+      "other": "belly",
+      "fraction": 0.502908,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ribcage",
+      "face": "down",
+      "other": "front_-1_upper",
+      "fraction": 0.076395,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ribcage",
+      "face": "down",
+      "other": "back_-1_upper",
+      "fraction": 0.065889,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ribcage",
+      "face": "down",
+      "other": "front_1_upper",
+      "fraction": 0.076395,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ribcage",
+      "face": "down",
+      "other": "back_1_upper",
+      "fraction": 0.065889,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "shoulder_hump",
+      "face": "north",
+      "other": "neck",
+      "fraction": 0.318168,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "shoulder_hump",
+      "face": "north",
+      "other": "skull",
+      "fraction": 0.436345,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "shoulder_hump",
+      "face": "north",
+      "other": "ear_-1",
+      "fraction": 0.091483,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "shoulder_hump",
+      "face": "north",
+      "other": "ear_1",
+      "fraction": 0.091483,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "shoulder_hump",
+      "face": "south",
+      "other": "ribcage",
+      "fraction": 0.727242,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "shoulder_hump",
+      "face": "south",
+      "other": "bramble_plate_-1_1",
+      "fraction": 0.031816,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "shoulder_hump",
+      "face": "south",
+      "other": "bramble_plate_1_1",
+      "fraction": 0.031816,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "shoulder_hump",
+      "face": "up",
+      "other": "ear_-1",
+      "fraction": 0.008488,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "shoulder_hump",
+      "face": "up",
+      "other": "bramble_plate_-1_1",
+      "fraction": 0.201698,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "shoulder_hump",
+      "face": "up",
+      "other": "ear_1",
+      "fraction": 0.008488,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "shoulder_hump",
+      "face": "up",
+      "other": "bramble_plate_1_1",
+      "fraction": 0.201698,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "shoulder_hump",
+      "face": "down",
+      "other": "ribcage",
+      "fraction": 0.852241,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "shoulder_hump",
+      "face": "down",
+      "other": "neck",
+      "fraction": 0.318171,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "shoulder_hump",
+      "face": "down",
+      "other": "skull",
+      "fraction": 0.136355,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "rump",
+      "face": "north",
+      "other": "ribcage",
+      "fraction": 1.0,
+      "kind": "fully_covered",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "rump",
+      "face": "north",
+      "other": "belly",
+      "fraction": 0.312489,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "rump",
+      "face": "south",
+      "other": "bramble_plate_-1_3",
+      "fraction": 0.023436,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "rump",
+      "face": "south",
+      "other": "bramble_plate_1_3",
+      "fraction": 0.023436,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "rump",
+      "face": "south",
+      "other": "tail_base",
+      "fraction": 0.075289,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "rump",
+      "face": "east",
+      "other": "ribcage",
+      "fraction": 0.428553,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "rump",
+      "face": "east",
+      "other": "bramble_plate_1_3",
+      "fraction": 0.027498,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "rump",
+      "face": "east",
+      "other": "back_1_upper",
+      "fraction": 0.026286,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "rump",
+      "face": "west",
+      "other": "ribcage",
+      "fraction": 0.428553,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "rump",
+      "face": "west",
+      "other": "bramble_plate_-1_3",
+      "fraction": 0.027498,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "rump",
+      "face": "west",
+      "other": "back_-1_upper",
+      "fraction": 0.026286,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "rump",
+      "face": "up",
+      "other": "ribcage",
+      "fraction": 0.428553,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "rump",
+      "face": "up",
+      "other": "bramble_plate_-1_3",
+      "fraction": 0.257806,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "rump",
+      "face": "up",
+      "other": "bramble_plate_1_3",
+      "fraction": 0.257806,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "rump",
+      "face": "down",
+      "other": "ribcage",
+      "fraction": 0.428553,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "rump",
+      "face": "down",
+      "other": "belly",
+      "fraction": 0.457478,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "rump",
+      "face": "down",
+      "other": "back_-1_upper",
+      "fraction": 0.101856,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "rump",
+      "face": "down",
+      "other": "back_1_upper",
+      "fraction": 0.101856,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "north",
+      "other": "ribcage",
+      "fraction": 0.874978,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "north",
+      "other": "front_-1_upper",
+      "fraction": 0.115553,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "north",
+      "other": "front_-1_joint",
+      "fraction": 0.021427,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "north",
+      "other": "front_1_upper",
+      "fraction": 0.115553,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "north",
+      "other": "front_1_joint",
+      "fraction": 0.021427,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "south",
+      "other": "rump",
+      "fraction": 0.624982,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "south",
+      "other": "back_-1_upper",
+      "fraction": 0.021161,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "south",
+      "other": "back_1_upper",
+      "fraction": 0.021161,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "east",
+      "other": "ribcage",
+      "fraction": 0.817218,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "east",
+      "other": "rump",
+      "fraction": 0.228739,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "east",
+      "other": "front_1_upper",
+      "fraction": 0.105792,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "east",
+      "other": "front_1_joint",
+      "fraction": 0.034248,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "east",
+      "other": "back_1_upper",
+      "fraction": 0.153295,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "east",
+      "other": "back_1_joint",
+      "fraction": 0.037497,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "west",
+      "other": "ribcage",
+      "fraction": 0.817218,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "west",
+      "other": "rump",
+      "fraction": 0.228739,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "west",
+      "other": "front_-1_upper",
+      "fraction": 0.105792,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "west",
+      "other": "front_-1_joint",
+      "fraction": 0.034248,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "west",
+      "other": "back_-1_upper",
+      "fraction": 0.153295,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "west",
+      "other": "back_-1_joint",
+      "fraction": 0.037497,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "up",
+      "other": "ribcage",
+      "fraction": 0.933987,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "up",
+      "other": "rump",
+      "fraction": 0.365993,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "down",
+      "other": "front_-1_upper",
+      "fraction": 0.058979,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "down",
+      "other": "front_-1_joint",
+      "fraction": 0.04697,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "down",
+      "other": "back_-1_upper",
+      "fraction": 0.080397,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "down",
+      "other": "back_-1_joint",
+      "fraction": 0.051427,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "down",
+      "other": "front_1_upper",
+      "fraction": 0.058979,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "down",
+      "other": "front_1_joint",
+      "fraction": 0.04697,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "down",
+      "other": "back_1_upper",
+      "fraction": 0.080397,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "belly",
+      "face": "down",
+      "other": "back_1_joint",
+      "fraction": 0.051427,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "north",
+      "other": "skull",
+      "fraction": 1.0,
+      "kind": "fully_covered",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "north",
+      "other": "cheek_l",
+      "fraction": 0.159043,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "north",
+      "other": "cheek_r",
+      "fraction": 0.159043,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "north",
+      "other": "ear_-1",
+      "fraction": 0.027649,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "north",
+      "other": "ear_inner_-1",
+      "fraction": 0.000845,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "north",
+      "other": "ear_1",
+      "fraction": 0.027649,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "north",
+      "other": "ear_inner_1",
+      "fraction": 0.000845,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "south",
+      "other": "ribcage",
+      "fraction": 1.0,
+      "kind": "fully_covered",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "south",
+      "other": "shoulder_hump",
+      "fraction": 0.416658,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "east",
+      "other": "ribcage",
+      "fraction": 0.583312,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "east",
+      "other": "shoulder_hump",
+      "fraction": 0.277767,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "east",
+      "other": "skull",
+      "fraction": 0.583322,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "east",
+      "other": "cheek_r",
+      "fraction": 0.124316,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "east",
+      "other": "ear_1",
+      "fraction": 0.056559,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "east",
+      "other": "ear_inner_1",
+      "fraction": 0.001513,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "west",
+      "other": "ribcage",
+      "fraction": 0.583312,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "west",
+      "other": "shoulder_hump",
+      "fraction": 0.277767,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "west",
+      "other": "skull",
+      "fraction": 0.583322,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "west",
+      "other": "cheek_l",
+      "fraction": 0.124316,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "west",
+      "other": "ear_-1",
+      "fraction": 0.056559,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "west",
+      "other": "ear_inner_-1",
+      "fraction": 0.001513,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "up",
+      "other": "ribcage",
+      "fraction": 0.583312,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "up",
+      "other": "shoulder_hump",
+      "fraction": 0.666653,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "up",
+      "other": "skull",
+      "fraction": 0.583322,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "up",
+      "other": "ear_-1",
+      "fraction": 0.0876,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "up",
+      "other": "ear_inner_-1",
+      "fraction": 0.002913,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "up",
+      "other": "ear_1",
+      "fraction": 0.0876,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "up",
+      "other": "ear_inner_1",
+      "fraction": 0.002913,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "down",
+      "other": "ribcage",
+      "fraction": 0.583312,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "down",
+      "other": "skull",
+      "fraction": 0.583322,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "down",
+      "other": "cheek_l",
+      "fraction": 0.063806,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "neck",
+      "face": "down",
+      "other": "cheek_r",
+      "fraction": 0.063806,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "north",
+      "other": "cheek_l",
+      "fraction": 0.171425,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "north",
+      "other": "cheek_r",
+      "fraction": 0.171425,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "north",
+      "other": "snout",
+      "fraction": 0.374988,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "north",
+      "other": "jaw",
+      "fraction": 0.04464,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "north",
+      "other": "tusk_base_-1",
+      "fraction": 0.014985,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "north",
+      "other": "tusk_base_1",
+      "fraction": 0.014985,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "south",
+      "other": "ribcage",
+      "fraction": 1.0,
+      "kind": "fully_covered",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "south",
+      "other": "shoulder_hump",
+      "fraction": 0.428564,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "south",
+      "other": "neck",
+      "fraction": 0.74997,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "east",
+      "other": "ribcage",
+      "fraction": 0.142839,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "east",
+      "other": "shoulder_hump",
+      "fraction": 0.09183,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "east",
+      "other": "cheek_r",
+      "fraction": 0.37929,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "east",
+      "other": "ear_1",
+      "fraction": 0.075579,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "east",
+      "other": "ear_inner_1",
+      "fraction": 0.012907,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "west",
+      "other": "ribcage",
+      "fraction": 0.142839,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "west",
+      "other": "shoulder_hump",
+      "fraction": 0.09183,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "west",
+      "other": "cheek_l",
+      "fraction": 0.37929,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "west",
+      "other": "ear_-1",
+      "fraction": 0.075579,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "west",
+      "other": "ear_inner_-1",
+      "fraction": 0.012907,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "up",
+      "other": "ribcage",
+      "fraction": 0.142839,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "up",
+      "other": "shoulder_hump",
+      "fraction": 0.214274,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "up",
+      "other": "ear_-1",
+      "fraction": 0.091122,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "up",
+      "other": "ear_inner_-1",
+      "fraction": 0.033305,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "up",
+      "other": "ear_1",
+      "fraction": 0.091122,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "up",
+      "other": "ear_inner_1",
+      "fraction": 0.033305,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "down",
+      "other": "ribcage",
+      "fraction": 0.142839,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "down",
+      "other": "cheek_l",
+      "fraction": 0.216067,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "down",
+      "other": "cheek_r",
+      "fraction": 0.216067,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "down",
+      "other": "snout",
+      "fraction": 0.107135,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "down",
+      "other": "jaw",
+      "fraction": 0.223205,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "down",
+      "other": "tusk_base_-1",
+      "fraction": 0.002436,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "skull",
+      "face": "down",
+      "other": "tusk_base_1",
+      "fraction": 0.002436,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_l",
+      "face": "north",
+      "other": "snout",
+      "fraction": 0.457477,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_l",
+      "face": "north",
+      "other": "jaw",
+      "fraction": 0.054996,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_l",
+      "face": "north",
+      "other": "tusk_base_-1",
+      "fraction": 0.125664,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_l",
+      "face": "south",
+      "other": "neck",
+      "fraction": 0.556637,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_l",
+      "face": "south",
+      "other": "skull",
+      "fraction": 0.79996,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_l",
+      "face": "east",
+      "other": "neck",
+      "fraction": 0.223766,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_l",
+      "face": "east",
+      "other": "skull",
+      "fraction": 0.92925,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_l",
+      "face": "east",
+      "other": "snout",
+      "fraction": 0.212269,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_l",
+      "face": "east",
+      "other": "jaw",
+      "fraction": 0.087776,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_l",
+      "face": "up",
+      "other": "neck",
+      "fraction": 0.178652,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_l",
+      "face": "up",
+      "other": "skull",
+      "fraction": 0.806629,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_l",
+      "face": "down",
+      "other": "snout",
+      "fraction": 0.11599,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_l",
+      "face": "down",
+      "other": "jaw",
+      "fraction": 0.177321,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_l",
+      "face": "down",
+      "other": "tusk_base_-1",
+      "fraction": 0.010898,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_r",
+      "face": "north",
+      "other": "snout",
+      "fraction": 0.457477,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_r",
+      "face": "north",
+      "other": "jaw",
+      "fraction": 0.054996,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_r",
+      "face": "north",
+      "other": "tusk_base_1",
+      "fraction": 0.125664,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_r",
+      "face": "south",
+      "other": "neck",
+      "fraction": 0.556637,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_r",
+      "face": "south",
+      "other": "skull",
+      "fraction": 0.79996,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_r",
+      "face": "west",
+      "other": "neck",
+      "fraction": 0.223766,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_r",
+      "face": "west",
+      "other": "skull",
+      "fraction": 0.92925,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_r",
+      "face": "west",
+      "other": "snout",
+      "fraction": 0.212269,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_r",
+      "face": "west",
+      "other": "jaw",
+      "fraction": 0.087776,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_r",
+      "face": "up",
+      "other": "neck",
+      "fraction": 0.178652,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_r",
+      "face": "up",
+      "other": "skull",
+      "fraction": 0.806629,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_r",
+      "face": "down",
+      "other": "snout",
+      "fraction": 0.11599,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_r",
+      "face": "down",
+      "other": "jaw",
+      "fraction": 0.177321,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "cheek_r",
+      "face": "down",
+      "other": "tusk_base_1",
+      "fraction": 0.010898,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "snout",
+      "face": "north",
+      "other": "nose",
+      "fraction": 0.624975,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "snout",
+      "face": "south",
+      "other": "skull",
+      "fraction": 0.874982,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "snout",
+      "face": "south",
+      "other": "cheek_l",
+      "fraction": 0.228743,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "snout",
+      "face": "south",
+      "other": "cheek_r",
+      "fraction": 0.228743,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "snout",
+      "face": "south",
+      "other": "jaw",
+      "fraction": 0.208325,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "snout",
+      "face": "east",
+      "other": "skull",
+      "fraction": 0.174984,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "snout",
+      "face": "east",
+      "other": "cheek_r",
+      "fraction": 0.212269,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "snout",
+      "face": "east",
+      "other": "tusk_base_1",
+      "fraction": 0.273224,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "snout",
+      "face": "west",
+      "other": "skull",
+      "fraction": 0.174984,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "snout",
+      "face": "west",
+      "other": "cheek_l",
+      "fraction": 0.212269,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "snout",
+      "face": "west",
+      "other": "tusk_base_-1",
+      "fraction": 0.273224,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "snout",
+      "face": "up",
+      "other": "skull",
+      "fraction": 0.199986,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "snout",
+      "face": "up",
+      "other": "cheek_l",
+      "fraction": 0.057996,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "snout",
+      "face": "up",
+      "other": "cheek_r",
+      "fraction": 0.057996,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "snout",
+      "face": "down",
+      "other": "jaw",
+      "fraction": 0.583313,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "snout",
+      "face": "down",
+      "other": "tusk_base_-1",
+      "fraction": 0.032647,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "snout",
+      "face": "down",
+      "other": "tusk_base_1",
+      "fraction": 0.032647,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "nose",
+      "face": "south",
+      "other": "snout",
+      "fraction": 1.0,
+      "kind": "fully_covered",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "nose",
+      "face": "east",
+      "other": "snout",
+      "fraction": 0.49995,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "nose",
+      "face": "west",
+      "other": "snout",
+      "fraction": 0.49995,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "nose",
+      "face": "up",
+      "other": "snout",
+      "fraction": 0.49995,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "nose",
+      "face": "down",
+      "other": "snout",
+      "fraction": 0.49995,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "jaw",
+      "face": "north",
+      "other": "snout",
+      "fraction": 0.49998,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "jaw",
+      "face": "north",
+      "other": "tusk_base_-1",
+      "fraction": 0.00316,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "jaw",
+      "face": "north",
+      "other": "tusk_base_1",
+      "fraction": 0.00316,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "jaw",
+      "face": "south",
+      "other": "skull",
+      "fraction": 0.249965,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "jaw",
+      "face": "south",
+      "other": "cheek_l",
+      "fraction": 0.065994,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "jaw",
+      "face": "south",
+      "other": "cheek_r",
+      "fraction": 0.065994,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "jaw",
+      "face": "east",
+      "other": "skull",
+      "fraction": 0.124979,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "jaw",
+      "face": "east",
+      "other": "cheek_r",
+      "fraction": 0.175546,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "jaw",
+      "face": "east",
+      "other": "snout",
+      "fraction": 0.349981,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "jaw",
+      "face": "east",
+      "other": "tusk_base_1",
+      "fraction": 0.203697,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "jaw",
+      "face": "west",
+      "other": "skull",
+      "fraction": 0.124979,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "jaw",
+      "face": "west",
+      "other": "cheek_l",
+      "fraction": 0.175546,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "jaw",
+      "face": "west",
+      "other": "snout",
+      "fraction": 0.349981,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "jaw",
+      "face": "west",
+      "other": "tusk_base_-1",
+      "fraction": 0.203697,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "jaw",
+      "face": "up",
+      "other": "skull",
+      "fraction": 0.499986,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "jaw",
+      "face": "up",
+      "other": "cheek_l",
+      "fraction": 0.106395,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "jaw",
+      "face": "up",
+      "other": "cheek_r",
+      "fraction": 0.106395,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "jaw",
+      "face": "up",
+      "other": "snout",
+      "fraction": 0.69999,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "jaw",
+      "face": "up",
+      "other": "tusk_base_-1",
+      "fraction": 0.040968,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "jaw",
+      "face": "up",
+      "other": "tusk_base_1",
+      "fraction": 0.040968,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_-1",
+      "face": "north",
+      "other": "skull",
+      "fraction": 0.227226,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_-1",
+      "face": "north",
+      "other": "ear_inner_-1",
+      "fraction": 0.33332,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_-1",
+      "face": "south",
+      "other": "shoulder_hump",
+      "fraction": 0.419674,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_-1",
+      "face": "south",
+      "other": "neck",
+      "fraction": 0.18382,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_-1",
+      "face": "south",
+      "other": "skull",
+      "fraction": 0.360262,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_-1",
+      "face": "east",
+      "other": "shoulder_hump",
+      "fraction": 0.020463,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_-1",
+      "face": "east",
+      "other": "neck",
+      "fraction": 0.045448,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_-1",
+      "face": "east",
+      "other": "skull",
+      "fraction": 0.185473,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_-1",
+      "face": "west",
+      "other": "shoulder_hump",
+      "fraction": 0.058421,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_-1",
+      "face": "west",
+      "other": "skull",
+      "fraction": 0.021989,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_-1",
+      "face": "up",
+      "other": "shoulder_hump",
+      "fraction": 0.107153,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_-1",
+      "face": "down",
+      "other": "neck",
+      "fraction": 0.624303,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_-1",
+      "face": "down",
+      "other": "skull",
+      "fraction": 0.992995,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_inner_-1",
+      "face": "north",
+      "other": "skull",
+      "fraction": 0.135228,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_inner_-1",
+      "face": "south",
+      "other": "neck",
+      "fraction": 0.017223,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_inner_-1",
+      "face": "south",
+      "other": "skull",
+      "fraction": 0.26212,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_inner_-1",
+      "face": "south",
+      "other": "ear_-1",
+      "fraction": 1.0,
+      "kind": "fully_covered",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_inner_-1",
+      "face": "east",
+      "other": "skull",
+      "fraction": 0.01055,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_inner_-1",
+      "face": "east",
+      "other": "ear_-1",
+      "fraction": 0.534054,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_inner_-1",
+      "face": "west",
+      "other": "skull",
+      "fraction": 0.100861,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_inner_-1",
+      "face": "west",
+      "other": "ear_-1",
+      "fraction": 0.534054,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_inner_-1",
+      "face": "up",
+      "other": "ear_-1",
+      "fraction": 0.534054,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_inner_-1",
+      "face": "down",
+      "other": "neck",
+      "fraction": 0.060049,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_inner_-1",
+      "face": "down",
+      "other": "skull",
+      "fraction": 0.94713,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_inner_-1",
+      "face": "down",
+      "other": "ear_-1",
+      "fraction": 0.534054,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_-1",
+      "face": "north",
+      "other": "snout",
+      "fraction": 0.339259,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_-1",
+      "face": "north",
+      "other": "jaw",
+      "fraction": 0.225367,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_-1",
+      "face": "south",
+      "other": "skull",
+      "fraction": 0.0988,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_-1",
+      "face": "south",
+      "other": "cheek_l",
+      "fraction": 0.167239,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_-1",
+      "face": "south",
+      "other": "snout",
+      "fraction": 0.197337,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_-1",
+      "face": "east",
+      "other": "cheek_l",
+      "fraction": 0.00148,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_-1",
+      "face": "east",
+      "other": "snout",
+      "fraction": 0.81139,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_-1",
+      "face": "east",
+      "other": "jaw",
+      "fraction": 0.178044,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_-1",
+      "face": "west",
+      "other": "skull",
+      "fraction": 0.028725,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_-1",
+      "face": "west",
+      "other": "cheek_l",
+      "fraction": 0.060335,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_-1",
+      "face": "up",
+      "other": "tusk_tip_-1",
+      "fraction": 0.346888,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_-1",
+      "face": "down",
+      "other": "skull",
+      "fraction": 0.146084,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_-1",
+      "face": "down",
+      "other": "cheek_l",
+      "fraction": 0.270293,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_-1",
+      "face": "down",
+      "other": "snout",
+      "fraction": 0.632129,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_-1",
+      "face": "down",
+      "other": "jaw",
+      "fraction": 0.373277,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_tip_-1",
+      "face": "north",
+      "other": "tusk_base_-1",
+      "fraction": 0.029695,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_tip_-1",
+      "face": "south",
+      "other": "tusk_base_-1",
+      "fraction": 0.306394,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_tip_-1",
+      "face": "east",
+      "other": "tusk_base_-1",
+      "fraction": 0.273623,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_tip_-1",
+      "face": "west",
+      "other": "tusk_base_-1",
+      "fraction": 0.055902,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_tip_-1",
+      "face": "down",
+      "other": "tusk_base_-1",
+      "fraction": 0.899842,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_-1_1",
+      "face": "north",
+      "other": "shoulder_hump",
+      "fraction": 0.174975,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_-1_1",
+      "face": "north",
+      "other": "back_bloom_petal3",
+      "fraction": 0.051522,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_-1_1",
+      "face": "south",
+      "other": "back_bloom_petal2",
+      "fraction": 0.083405,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_-1_1",
+      "face": "east",
+      "other": "shoulder_hump",
+      "fraction": 0.155287,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_-1_1",
+      "face": "east",
+      "other": "back_bloom_petal0",
+      "fraction": 0.056431,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_-1_1",
+      "face": "west",
+      "other": "shoulder_hump",
+      "fraction": 0.155287,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_-1_1",
+      "face": "up",
+      "other": "back_bloom_petal0",
+      "fraction": 0.275103,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_-1_1",
+      "face": "up",
+      "other": "back_bloom_petal1",
+      "fraction": 0.30669,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_-1_1",
+      "face": "up",
+      "other": "back_bloom_petal2",
+      "fraction": 0.185105,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_-1_1",
+      "face": "up",
+      "other": "back_bloom_petal3",
+      "fraction": 0.260104,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_-1_1",
+      "face": "down",
+      "other": "shoulder_hump",
+      "fraction": 0.88748,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_-1_2",
+      "face": "north",
+      "other": "ribcage",
+      "fraction": 0.166204,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_-1_2",
+      "face": "south",
+      "other": "ribcage",
+      "fraction": 0.166204,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_-1_2",
+      "face": "east",
+      "other": "ribcage",
+      "fraction": 0.174955,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_-1_2",
+      "face": "up",
+      "other": "thorn_-1_2",
+      "fraction": 0.034783,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_-1_2",
+      "face": "down",
+      "other": "ribcage",
+      "fraction": 0.94998,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "thorn_-1_2",
+      "face": "north",
+      "other": "bramble_plate_-1_2",
+      "fraction": 0.000117,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "thorn_-1_2",
+      "face": "south",
+      "other": "bramble_plate_-1_2",
+      "fraction": 0.071899,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "thorn_-1_2",
+      "face": "east",
+      "other": "bramble_plate_-1_2",
+      "fraction": 0.000736,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "thorn_-1_2",
+      "face": "west",
+      "other": "bramble_plate_-1_2",
+      "fraction": 0.067732,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "thorn_-1_2",
+      "face": "down",
+      "other": "bramble_plate_-1_2",
+      "fraction": 0.574252,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_-1_3",
+      "face": "north",
+      "other": "rump",
+      "fraction": 0.131221,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_-1_3",
+      "face": "east",
+      "other": "rump",
+      "fraction": 0.168401,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_-1_3",
+      "face": "up",
+      "other": "thorn_-1_3",
+      "fraction": 0.034783,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_-1_3",
+      "face": "down",
+      "other": "rump",
+      "fraction": 0.721846,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "thorn_-1_3",
+      "face": "north",
+      "other": "bramble_plate_-1_3",
+      "fraction": 0.000117,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "thorn_-1_3",
+      "face": "south",
+      "other": "bramble_plate_-1_3",
+      "fraction": 0.071899,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "thorn_-1_3",
+      "face": "east",
+      "other": "bramble_plate_-1_3",
+      "fraction": 0.000736,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "thorn_-1_3",
+      "face": "west",
+      "other": "bramble_plate_-1_3",
+      "fraction": 0.067732,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "thorn_-1_3",
+      "face": "down",
+      "other": "bramble_plate_-1_3",
+      "fraction": 0.574252,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_1",
+      "face": "north",
+      "other": "skull",
+      "fraction": 0.227226,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_1",
+      "face": "north",
+      "other": "ear_inner_1",
+      "fraction": 0.33332,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_1",
+      "face": "south",
+      "other": "shoulder_hump",
+      "fraction": 0.419674,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_1",
+      "face": "south",
+      "other": "neck",
+      "fraction": 0.18382,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_1",
+      "face": "south",
+      "other": "skull",
+      "fraction": 0.360262,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_1",
+      "face": "east",
+      "other": "shoulder_hump",
+      "fraction": 0.058421,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_1",
+      "face": "east",
+      "other": "skull",
+      "fraction": 0.021989,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_1",
+      "face": "west",
+      "other": "shoulder_hump",
+      "fraction": 0.020463,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_1",
+      "face": "west",
+      "other": "neck",
+      "fraction": 0.045448,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_1",
+      "face": "west",
+      "other": "skull",
+      "fraction": 0.185473,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_1",
+      "face": "up",
+      "other": "shoulder_hump",
+      "fraction": 0.107153,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_1",
+      "face": "down",
+      "other": "neck",
+      "fraction": 0.624303,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_1",
+      "face": "down",
+      "other": "skull",
+      "fraction": 0.992995,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_inner_1",
+      "face": "north",
+      "other": "skull",
+      "fraction": 0.135228,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_inner_1",
+      "face": "south",
+      "other": "neck",
+      "fraction": 0.017223,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_inner_1",
+      "face": "south",
+      "other": "skull",
+      "fraction": 0.26212,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_inner_1",
+      "face": "south",
+      "other": "ear_1",
+      "fraction": 1.0,
+      "kind": "fully_covered",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_inner_1",
+      "face": "east",
+      "other": "skull",
+      "fraction": 0.100861,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_inner_1",
+      "face": "east",
+      "other": "ear_1",
+      "fraction": 0.534054,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_inner_1",
+      "face": "west",
+      "other": "skull",
+      "fraction": 0.01055,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_inner_1",
+      "face": "west",
+      "other": "ear_1",
+      "fraction": 0.534054,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_inner_1",
+      "face": "up",
+      "other": "ear_1",
+      "fraction": 0.534054,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_inner_1",
+      "face": "down",
+      "other": "neck",
+      "fraction": 0.060049,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_inner_1",
+      "face": "down",
+      "other": "skull",
+      "fraction": 0.94713,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "ear_inner_1",
+      "face": "down",
+      "other": "ear_1",
+      "fraction": 0.534054,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_1",
+      "face": "north",
+      "other": "snout",
+      "fraction": 0.339259,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_1",
+      "face": "north",
+      "other": "jaw",
+      "fraction": 0.225367,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_1",
+      "face": "south",
+      "other": "skull",
+      "fraction": 0.0988,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_1",
+      "face": "south",
+      "other": "cheek_r",
+      "fraction": 0.167239,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_1",
+      "face": "south",
+      "other": "snout",
+      "fraction": 0.197337,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_1",
+      "face": "east",
+      "other": "skull",
+      "fraction": 0.028725,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_1",
+      "face": "east",
+      "other": "cheek_r",
+      "fraction": 0.060335,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_1",
+      "face": "west",
+      "other": "cheek_r",
+      "fraction": 0.00148,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_1",
+      "face": "west",
+      "other": "snout",
+      "fraction": 0.81139,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_1",
+      "face": "west",
+      "other": "jaw",
+      "fraction": 0.178044,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_1",
+      "face": "up",
+      "other": "tusk_tip_1",
+      "fraction": 0.346888,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_1",
+      "face": "down",
+      "other": "skull",
+      "fraction": 0.146084,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_1",
+      "face": "down",
+      "other": "cheek_r",
+      "fraction": 0.270293,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_1",
+      "face": "down",
+      "other": "snout",
+      "fraction": 0.632129,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_base_1",
+      "face": "down",
+      "other": "jaw",
+      "fraction": 0.373277,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_tip_1",
+      "face": "north",
+      "other": "tusk_base_1",
+      "fraction": 0.029695,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_tip_1",
+      "face": "south",
+      "other": "tusk_base_1",
+      "fraction": 0.306394,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_tip_1",
+      "face": "east",
+      "other": "tusk_base_1",
+      "fraction": 0.055902,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_tip_1",
+      "face": "west",
+      "other": "tusk_base_1",
+      "fraction": 0.273623,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tusk_tip_1",
+      "face": "down",
+      "other": "tusk_base_1",
+      "fraction": 0.899842,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_1_1",
+      "face": "north",
+      "other": "shoulder_hump",
+      "fraction": 0.174975,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_1_1",
+      "face": "east",
+      "other": "shoulder_hump",
+      "fraction": 0.155287,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_1_1",
+      "face": "west",
+      "other": "shoulder_hump",
+      "fraction": 0.155287,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_1_1",
+      "face": "up",
+      "other": "thorn_1_1",
+      "fraction": 0.03522,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_1_1",
+      "face": "down",
+      "other": "shoulder_hump",
+      "fraction": 0.88748,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "thorn_1_1",
+      "face": "south",
+      "other": "bramble_plate_1_1",
+      "fraction": 0.036344,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "thorn_1_1",
+      "face": "east",
+      "other": "bramble_plate_1_1",
+      "fraction": 0.033921,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "thorn_1_1",
+      "face": "down",
+      "other": "bramble_plate_1_1",
+      "fraction": 0.145375,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_1_2",
+      "face": "north",
+      "other": "ribcage",
+      "fraction": 0.166204,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_1_2",
+      "face": "south",
+      "other": "ribcage",
+      "fraction": 0.166204,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_1_2",
+      "face": "west",
+      "other": "ribcage",
+      "fraction": 0.174955,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_1_2",
+      "face": "up",
+      "other": "thorn_1_2",
+      "fraction": 0.034783,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_1_2",
+      "face": "down",
+      "other": "ribcage",
+      "fraction": 0.94998,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "thorn_1_2",
+      "face": "north",
+      "other": "bramble_plate_1_2",
+      "fraction": 0.000117,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "thorn_1_2",
+      "face": "south",
+      "other": "bramble_plate_1_2",
+      "fraction": 0.071899,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "thorn_1_2",
+      "face": "east",
+      "other": "bramble_plate_1_2",
+      "fraction": 0.067732,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "thorn_1_2",
+      "face": "west",
+      "other": "bramble_plate_1_2",
+      "fraction": 0.000736,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "thorn_1_2",
+      "face": "down",
+      "other": "bramble_plate_1_2",
+      "fraction": 0.574252,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_1_3",
+      "face": "north",
+      "other": "rump",
+      "fraction": 0.131221,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_1_3",
+      "face": "west",
+      "other": "rump",
+      "fraction": 0.168401,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_1_3",
+      "face": "up",
+      "other": "thorn_1_3",
+      "fraction": 0.034783,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bramble_plate_1_3",
+      "face": "down",
+      "other": "rump",
+      "fraction": 0.721846,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "thorn_1_3",
+      "face": "north",
+      "other": "bramble_plate_1_3",
+      "fraction": 0.000117,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "thorn_1_3",
+      "face": "south",
+      "other": "bramble_plate_1_3",
+      "fraction": 0.071899,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "thorn_1_3",
+      "face": "east",
+      "other": "bramble_plate_1_3",
+      "fraction": 0.067732,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "thorn_1_3",
+      "face": "west",
+      "other": "bramble_plate_1_3",
+      "fraction": 0.000736,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "thorn_1_3",
+      "face": "down",
+      "other": "bramble_plate_1_3",
+      "fraction": 0.574252,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_upper",
+      "face": "north",
+      "other": "ribcage",
+      "fraction": 0.7333,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_upper",
+      "face": "north",
+      "other": "belly",
+      "fraction": 0.519748,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_upper",
+      "face": "north",
+      "other": "front_-1_joint",
+      "fraction": 0.177767,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_upper",
+      "face": "south",
+      "other": "ribcage",
+      "fraction": 0.266634,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_upper",
+      "face": "south",
+      "other": "front_-1_joint",
+      "fraction": 0.039423,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_upper",
+      "face": "east",
+      "other": "ribcage",
+      "fraction": 0.499967,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_upper",
+      "face": "east",
+      "other": "belly",
+      "fraction": 0.470168,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_upper",
+      "face": "west",
+      "other": "ribcage",
+      "fraction": 0.499967,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_upper",
+      "face": "up",
+      "other": "front_-1_joint",
+      "fraction": 0.666653,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_upper",
+      "face": "up",
+      "other": "front_-1_lower",
+      "fraction": 0.32612,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_upper",
+      "face": "down",
+      "other": "ribcage",
+      "fraction": 1.0,
+      "kind": "fully_covered",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_upper",
+      "face": "down",
+      "other": "belly",
+      "fraction": 0.263639,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_joint",
+      "face": "north",
+      "other": "front_-1_upper",
+      "fraction": 0.610901,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_joint",
+      "face": "north",
+      "other": "front_-1_lower",
+      "fraction": 0.266195,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_joint",
+      "face": "north",
+      "other": "front_-1_hoof",
+      "fraction": 0.166657,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_joint",
+      "face": "south",
+      "other": "belly",
+      "fraction": 0.099986,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_joint",
+      "face": "east",
+      "other": "belly",
+      "fraction": 0.152204,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_joint",
+      "face": "east",
+      "other": "front_-1_upper",
+      "fraction": 0.4129,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_joint",
+      "face": "east",
+      "other": "front_-1_hoof",
+      "fraction": 0.088881,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_joint",
+      "face": "west",
+      "other": "front_-1_upper",
+      "fraction": 0.4129,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_joint",
+      "face": "west",
+      "other": "front_-1_lower",
+      "fraction": 0.37355,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_joint",
+      "face": "west",
+      "other": "front_-1_hoof",
+      "fraction": 0.088881,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_joint",
+      "face": "up",
+      "other": "belly",
+      "fraction": 0.547948,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_joint",
+      "face": "up",
+      "other": "front_-1_upper",
+      "fraction": 0.81842,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_joint",
+      "face": "down",
+      "other": "front_-1_lower",
+      "fraction": 0.553865,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_joint",
+      "face": "down",
+      "other": "front_-1_hoof",
+      "fraction": 0.53332,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_lower",
+      "face": "north",
+      "other": "front_-1_joint",
+      "fraction": 0.376122,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_lower",
+      "face": "north",
+      "other": "front_-1_hoof",
+      "fraction": 0.450508,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_lower",
+      "face": "south",
+      "other": "front_-1_upper",
+      "fraction": 0.397094,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_lower",
+      "face": "south",
+      "other": "front_-1_joint",
+      "fraction": 0.414469,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_lower",
+      "face": "south",
+      "other": "front_-1_hoof",
+      "fraction": 0.408832,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_lower",
+      "face": "east",
+      "other": "front_-1_upper",
+      "fraction": 0.085088,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_lower",
+      "face": "east",
+      "other": "front_-1_joint",
+      "fraction": 0.560331,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_lower",
+      "face": "east",
+      "other": "front_-1_hoof",
+      "fraction": 0.560329,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_lower",
+      "face": "west",
+      "other": "front_-1_upper",
+      "fraction": 0.085088,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_lower",
+      "face": "west",
+      "other": "front_-1_hoof",
+      "fraction": 0.560329,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_lower",
+      "face": "up",
+      "other": "front_-1_hoof",
+      "fraction": 1.0,
+      "kind": "fully_covered",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_lower",
+      "face": "down",
+      "other": "front_-1_upper",
+      "fraction": 0.428552,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_lower",
+      "face": "down",
+      "other": "front_-1_joint",
+      "fraction": 0.91999,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_hoof",
+      "face": "south",
+      "other": "front_-1_joint",
+      "fraction": 0.111102,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_hoof",
+      "face": "south",
+      "other": "front_-1_lower",
+      "fraction": 0.192893,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_hoof",
+      "face": "up",
+      "other": "front_-1_joint",
+      "fraction": 0.266656,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_-1_hoof",
+      "face": "up",
+      "other": "front_-1_lower",
+      "fraction": 0.301011,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_upper",
+      "face": "north",
+      "other": "belly",
+      "fraction": 0.195596,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_upper",
+      "face": "north",
+      "other": "back_-1_joint",
+      "fraction": 0.039423,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_upper",
+      "face": "south",
+      "other": "ribcage",
+      "fraction": 0.7333,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_upper",
+      "face": "south",
+      "other": "rump",
+      "fraction": 0.267997,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_upper",
+      "face": "south",
+      "other": "belly",
+      "fraction": 0.519748,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_upper",
+      "face": "south",
+      "other": "back_-1_joint",
+      "fraction": 0.177767,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_upper",
+      "face": "east",
+      "other": "ribcage",
+      "fraction": 0.433328,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_upper",
+      "face": "east",
+      "other": "rump",
+      "fraction": 0.143104,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_upper",
+      "face": "east",
+      "other": "belly",
+      "fraction": 0.681315,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_upper",
+      "face": "west",
+      "other": "ribcage",
+      "fraction": 0.433328,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_upper",
+      "face": "up",
+      "other": "back_-1_joint",
+      "fraction": 0.666653,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_upper",
+      "face": "up",
+      "other": "back_-1_lower",
+      "fraction": 0.32612,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_upper",
+      "face": "down",
+      "other": "ribcage",
+      "fraction": 0.708031,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_upper",
+      "face": "down",
+      "other": "rump",
+      "fraction": 0.57428,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_upper",
+      "face": "down",
+      "other": "belly",
+      "fraction": 0.538775,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_joint",
+      "face": "north",
+      "other": "belly",
+      "fraction": 0.099986,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_joint",
+      "face": "south",
+      "other": "belly",
+      "fraction": 0.099986,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_joint",
+      "face": "south",
+      "other": "back_-1_upper",
+      "fraction": 0.610901,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_joint",
+      "face": "south",
+      "other": "back_-1_lower",
+      "fraction": 0.266195,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_joint",
+      "face": "south",
+      "other": "back_-1_hoof",
+      "fraction": 0.166657,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_joint",
+      "face": "east",
+      "other": "belly",
+      "fraction": 0.166653,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_joint",
+      "face": "east",
+      "other": "back_-1_upper",
+      "fraction": 0.4129,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_joint",
+      "face": "east",
+      "other": "back_-1_lower",
+      "fraction": 0.37355,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_joint",
+      "face": "east",
+      "other": "back_-1_hoof",
+      "fraction": 0.144434,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_joint",
+      "face": "west",
+      "other": "back_-1_upper",
+      "fraction": 0.4129,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_joint",
+      "face": "west",
+      "other": "back_-1_hoof",
+      "fraction": 0.144434,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_joint",
+      "face": "up",
+      "other": "belly",
+      "fraction": 0.599965,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_joint",
+      "face": "up",
+      "other": "back_-1_upper",
+      "fraction": 0.81842,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_joint",
+      "face": "down",
+      "other": "back_-1_lower",
+      "fraction": 0.553865,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_joint",
+      "face": "down",
+      "other": "back_-1_hoof",
+      "fraction": 0.866653,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_lower",
+      "face": "north",
+      "other": "back_-1_upper",
+      "fraction": 0.397094,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_lower",
+      "face": "north",
+      "other": "back_-1_joint",
+      "fraction": 0.414469,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_lower",
+      "face": "north",
+      "other": "back_-1_hoof",
+      "fraction": 0.408832,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_lower",
+      "face": "south",
+      "other": "back_-1_joint",
+      "fraction": 0.376122,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_lower",
+      "face": "south",
+      "other": "back_-1_hoof",
+      "fraction": 0.782166,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_lower",
+      "face": "east",
+      "other": "back_-1_upper",
+      "fraction": 0.085088,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_lower",
+      "face": "east",
+      "other": "back_-1_hoof",
+      "fraction": 0.595499,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_lower",
+      "face": "west",
+      "other": "back_-1_upper",
+      "fraction": 0.085088,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_lower",
+      "face": "west",
+      "other": "back_-1_joint",
+      "fraction": 0.560331,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_lower",
+      "face": "west",
+      "other": "back_-1_hoof",
+      "fraction": 0.595499,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_lower",
+      "face": "up",
+      "other": "back_-1_hoof",
+      "fraction": 1.0,
+      "kind": "fully_covered",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_lower",
+      "face": "down",
+      "other": "back_-1_upper",
+      "fraction": 0.428552,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_lower",
+      "face": "down",
+      "other": "back_-1_joint",
+      "fraction": 0.91999,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_hoof",
+      "face": "north",
+      "other": "back_-1_joint",
+      "fraction": 0.111102,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_hoof",
+      "face": "up",
+      "other": "back_-1_joint",
+      "fraction": 0.43332,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_-1_hoof",
+      "face": "up",
+      "other": "back_-1_lower",
+      "fraction": 0.382026,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_upper",
+      "face": "north",
+      "other": "ribcage",
+      "fraction": 0.7333,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_upper",
+      "face": "north",
+      "other": "belly",
+      "fraction": 0.519748,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_upper",
+      "face": "north",
+      "other": "front_1_joint",
+      "fraction": 0.177767,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_upper",
+      "face": "south",
+      "other": "ribcage",
+      "fraction": 0.266634,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_upper",
+      "face": "south",
+      "other": "front_1_joint",
+      "fraction": 0.039423,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_upper",
+      "face": "east",
+      "other": "ribcage",
+      "fraction": 0.499967,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_upper",
+      "face": "west",
+      "other": "ribcage",
+      "fraction": 0.499967,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_upper",
+      "face": "west",
+      "other": "belly",
+      "fraction": 0.470168,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_upper",
+      "face": "up",
+      "other": "front_1_joint",
+      "fraction": 0.666653,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_upper",
+      "face": "up",
+      "other": "front_1_lower",
+      "fraction": 0.32612,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_upper",
+      "face": "down",
+      "other": "ribcage",
+      "fraction": 1.0,
+      "kind": "fully_covered",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_upper",
+      "face": "down",
+      "other": "belly",
+      "fraction": 0.263639,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_joint",
+      "face": "north",
+      "other": "front_1_upper",
+      "fraction": 0.610901,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_joint",
+      "face": "north",
+      "other": "front_1_lower",
+      "fraction": 0.266195,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_joint",
+      "face": "north",
+      "other": "front_1_hoof",
+      "fraction": 0.166657,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_joint",
+      "face": "south",
+      "other": "belly",
+      "fraction": 0.099986,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_joint",
+      "face": "east",
+      "other": "front_1_upper",
+      "fraction": 0.4129,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_joint",
+      "face": "east",
+      "other": "front_1_hoof",
+      "fraction": 0.088881,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_joint",
+      "face": "west",
+      "other": "belly",
+      "fraction": 0.152204,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_joint",
+      "face": "west",
+      "other": "front_1_upper",
+      "fraction": 0.4129,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_joint",
+      "face": "west",
+      "other": "front_1_lower",
+      "fraction": 0.37355,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_joint",
+      "face": "west",
+      "other": "front_1_hoof",
+      "fraction": 0.088881,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_joint",
+      "face": "up",
+      "other": "belly",
+      "fraction": 0.547948,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_joint",
+      "face": "up",
+      "other": "front_1_upper",
+      "fraction": 0.81842,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_joint",
+      "face": "down",
+      "other": "front_1_lower",
+      "fraction": 0.553865,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_joint",
+      "face": "down",
+      "other": "front_1_hoof",
+      "fraction": 0.53332,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_lower",
+      "face": "north",
+      "other": "front_1_joint",
+      "fraction": 0.376122,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_lower",
+      "face": "north",
+      "other": "front_1_hoof",
+      "fraction": 0.450508,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_lower",
+      "face": "south",
+      "other": "front_1_upper",
+      "fraction": 0.397094,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_lower",
+      "face": "south",
+      "other": "front_1_joint",
+      "fraction": 0.414469,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_lower",
+      "face": "south",
+      "other": "front_1_hoof",
+      "fraction": 0.408832,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_lower",
+      "face": "east",
+      "other": "front_1_upper",
+      "fraction": 0.085088,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_lower",
+      "face": "east",
+      "other": "front_1_joint",
+      "fraction": 0.560331,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_lower",
+      "face": "east",
+      "other": "front_1_hoof",
+      "fraction": 0.560329,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_lower",
+      "face": "west",
+      "other": "front_1_upper",
+      "fraction": 0.085088,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_lower",
+      "face": "west",
+      "other": "front_1_hoof",
+      "fraction": 0.560329,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_lower",
+      "face": "up",
+      "other": "front_1_hoof",
+      "fraction": 1.0,
+      "kind": "fully_covered",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_lower",
+      "face": "down",
+      "other": "front_1_upper",
+      "fraction": 0.428552,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_lower",
+      "face": "down",
+      "other": "front_1_joint",
+      "fraction": 0.91999,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_hoof",
+      "face": "south",
+      "other": "front_1_joint",
+      "fraction": 0.111102,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_hoof",
+      "face": "south",
+      "other": "front_1_lower",
+      "fraction": 0.192893,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_hoof",
+      "face": "up",
+      "other": "front_1_joint",
+      "fraction": 0.266656,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "front_1_hoof",
+      "face": "up",
+      "other": "front_1_lower",
+      "fraction": 0.301011,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_upper",
+      "face": "north",
+      "other": "belly",
+      "fraction": 0.195596,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_upper",
+      "face": "north",
+      "other": "back_1_joint",
+      "fraction": 0.039423,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_upper",
+      "face": "south",
+      "other": "ribcage",
+      "fraction": 0.7333,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_upper",
+      "face": "south",
+      "other": "rump",
+      "fraction": 0.267997,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_upper",
+      "face": "south",
+      "other": "belly",
+      "fraction": 0.519748,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_upper",
+      "face": "south",
+      "other": "back_1_joint",
+      "fraction": 0.177767,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_upper",
+      "face": "east",
+      "other": "ribcage",
+      "fraction": 0.433328,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_upper",
+      "face": "west",
+      "other": "ribcage",
+      "fraction": 0.433328,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_upper",
+      "face": "west",
+      "other": "rump",
+      "fraction": 0.143104,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_upper",
+      "face": "west",
+      "other": "belly",
+      "fraction": 0.681315,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_upper",
+      "face": "up",
+      "other": "back_1_joint",
+      "fraction": 0.666653,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_upper",
+      "face": "up",
+      "other": "back_1_lower",
+      "fraction": 0.32612,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_upper",
+      "face": "down",
+      "other": "ribcage",
+      "fraction": 0.708031,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_upper",
+      "face": "down",
+      "other": "rump",
+      "fraction": 0.57428,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_upper",
+      "face": "down",
+      "other": "belly",
+      "fraction": 0.538775,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_joint",
+      "face": "north",
+      "other": "belly",
+      "fraction": 0.099986,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_joint",
+      "face": "south",
+      "other": "belly",
+      "fraction": 0.099986,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_joint",
+      "face": "south",
+      "other": "back_1_upper",
+      "fraction": 0.610901,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_joint",
+      "face": "south",
+      "other": "back_1_lower",
+      "fraction": 0.266195,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_joint",
+      "face": "south",
+      "other": "back_1_hoof",
+      "fraction": 0.166657,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_joint",
+      "face": "east",
+      "other": "back_1_upper",
+      "fraction": 0.4129,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_joint",
+      "face": "east",
+      "other": "back_1_lower",
+      "fraction": 0.37355,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_joint",
+      "face": "east",
+      "other": "back_1_hoof",
+      "fraction": 0.144434,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_joint",
+      "face": "west",
+      "other": "belly",
+      "fraction": 0.166653,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_joint",
+      "face": "west",
+      "other": "back_1_upper",
+      "fraction": 0.4129,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_joint",
+      "face": "west",
+      "other": "back_1_hoof",
+      "fraction": 0.144434,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_joint",
+      "face": "up",
+      "other": "belly",
+      "fraction": 0.599965,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_joint",
+      "face": "up",
+      "other": "back_1_upper",
+      "fraction": 0.81842,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_joint",
+      "face": "down",
+      "other": "back_1_lower",
+      "fraction": 0.553865,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_joint",
+      "face": "down",
+      "other": "back_1_hoof",
+      "fraction": 0.866653,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_lower",
+      "face": "north",
+      "other": "back_1_upper",
+      "fraction": 0.397094,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_lower",
+      "face": "north",
+      "other": "back_1_joint",
+      "fraction": 0.414469,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_lower",
+      "face": "north",
+      "other": "back_1_hoof",
+      "fraction": 0.408832,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_lower",
+      "face": "south",
+      "other": "back_1_joint",
+      "fraction": 0.376122,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_lower",
+      "face": "south",
+      "other": "back_1_hoof",
+      "fraction": 0.782166,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_lower",
+      "face": "east",
+      "other": "back_1_upper",
+      "fraction": 0.085088,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_lower",
+      "face": "east",
+      "other": "back_1_hoof",
+      "fraction": 0.595499,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_lower",
+      "face": "west",
+      "other": "back_1_upper",
+      "fraction": 0.085088,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_lower",
+      "face": "west",
+      "other": "back_1_joint",
+      "fraction": 0.560331,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_lower",
+      "face": "west",
+      "other": "back_1_hoof",
+      "fraction": 0.595499,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_lower",
+      "face": "up",
+      "other": "back_1_hoof",
+      "fraction": 1.0,
+      "kind": "fully_covered",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_lower",
+      "face": "down",
+      "other": "back_1_upper",
+      "fraction": 0.428552,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_lower",
+      "face": "down",
+      "other": "back_1_joint",
+      "fraction": 0.91999,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_hoof",
+      "face": "north",
+      "other": "back_1_joint",
+      "fraction": 0.111102,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_hoof",
+      "face": "up",
+      "other": "back_1_joint",
+      "fraction": 0.43332,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_1_hoof",
+      "face": "up",
+      "other": "back_1_lower",
+      "fraction": 0.382026,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tail_base",
+      "face": "north",
+      "other": "rump",
+      "fraction": 0.611087,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tail_base",
+      "face": "north",
+      "other": "tail_tip",
+      "fraction": 0.01876,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tail_base",
+      "face": "south",
+      "other": "rump",
+      "fraction": 0.388864,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tail_base",
+      "face": "east",
+      "other": "rump",
+      "fraction": 0.499975,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tail_base",
+      "face": "west",
+      "other": "rump",
+      "fraction": 0.499975,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tail_base",
+      "face": "up",
+      "other": "tail_tip",
+      "fraction": 0.243228,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tail_base",
+      "face": "down",
+      "other": "rump",
+      "fraction": 1.0,
+      "kind": "fully_covered",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tail_tip",
+      "face": "north",
+      "other": "tail_base",
+      "fraction": 0.443702,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tail_tip",
+      "face": "east",
+      "other": "tail_base",
+      "fraction": 0.11932,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tail_tip",
+      "face": "west",
+      "other": "tail_base",
+      "fraction": 0.11932,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "tail_tip",
+      "face": "down",
+      "other": "tail_base",
+      "fraction": 0.414441,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "north",
+      "other": "back_bloom_petal0",
+      "fraction": 0.095632,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "north",
+      "other": "back_bloom_petal1",
+      "fraction": 0.095632,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "north",
+      "other": "back_bloom_petal3",
+      "fraction": 0.404882,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "south",
+      "other": "back_bloom_petal0",
+      "fraction": 0.095632,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "south",
+      "other": "back_bloom_petal1",
+      "fraction": 0.095632,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "south",
+      "other": "back_bloom_petal2",
+      "fraction": 0.404882,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "east",
+      "other": "back_bloom_petal0",
+      "fraction": 0.404882,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "east",
+      "other": "back_bloom_petal2",
+      "fraction": 0.095632,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "east",
+      "other": "back_bloom_petal3",
+      "fraction": 0.095632,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "west",
+      "other": "back_bloom_petal1",
+      "fraction": 0.404882,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "west",
+      "other": "back_bloom_petal2",
+      "fraction": 0.095632,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "west",
+      "other": "back_bloom_petal3",
+      "fraction": 0.095632,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "down",
+      "other": "back_bloom_petal0",
+      "fraction": 0.26116,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "down",
+      "other": "back_bloom_petal1",
+      "fraction": 0.26116,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "down",
+      "other": "back_bloom_petal2",
+      "fraction": 0.26116,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "down",
+      "other": "back_bloom_petal3",
+      "fraction": 0.26116,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal0",
+      "face": "north",
+      "other": "bramble_plate_-1_1",
+      "fraction": 0.301898,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal0",
+      "face": "north",
+      "other": "back_bloom_petal3",
+      "fraction": 0.457536,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal0",
+      "face": "south",
+      "other": "bramble_plate_-1_1",
+      "fraction": 0.301898,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal0",
+      "face": "south",
+      "other": "back_bloom_petal2",
+      "fraction": 0.457536,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal0",
+      "face": "west",
+      "other": "bramble_plate_-1_1",
+      "fraction": 0.528515,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal0",
+      "face": "west",
+      "other": "back_bloom_pollen",
+      "fraction": 0.191618,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal0",
+      "face": "west",
+      "other": "back_bloom_petal2",
+      "fraction": 0.298361,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal0",
+      "face": "west",
+      "other": "back_bloom_petal3",
+      "fraction": 0.298361,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal0",
+      "face": "up",
+      "other": "back_bloom_pollen",
+      "fraction": 0.198359,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal0",
+      "face": "up",
+      "other": "back_bloom_petal2",
+      "fraction": 0.09975,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal0",
+      "face": "up",
+      "other": "back_bloom_petal3",
+      "fraction": 0.09975,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal0",
+      "face": "down",
+      "other": "bramble_plate_-1_1",
+      "fraction": 0.88133,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal0",
+      "face": "down",
+      "other": "back_bloom_petal2",
+      "fraction": 0.068034,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal0",
+      "face": "down",
+      "other": "back_bloom_petal3",
+      "fraction": 0.068034,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "north",
+      "other": "bramble_plate_-1_1",
+      "fraction": 0.315958,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "north",
+      "other": "back_bloom_petal3",
+      "fraction": 0.457536,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "south",
+      "other": "bramble_plate_-1_1",
+      "fraction": 0.315958,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "south",
+      "other": "back_bloom_petal2",
+      "fraction": 0.457536,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "east",
+      "other": "bramble_plate_-1_1",
+      "fraction": 0.528515,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "east",
+      "other": "back_bloom_pollen",
+      "fraction": 0.191618,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "east",
+      "other": "back_bloom_petal2",
+      "fraction": 0.298361,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "east",
+      "other": "back_bloom_petal3",
+      "fraction": 0.298361,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "west",
+      "other": "bramble_plate_-1_1",
+      "fraction": 0.103402,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "up",
+      "other": "back_bloom_pollen",
+      "fraction": 0.198359,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "up",
+      "other": "back_bloom_petal2",
+      "fraction": 0.09975,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "up",
+      "other": "back_bloom_petal3",
+      "fraction": 0.09975,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "down",
+      "other": "bramble_plate_-1_1",
+      "fraction": 1.0,
+      "kind": "fully_covered",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "down",
+      "other": "back_bloom_petal2",
+      "fraction": 0.068034,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "down",
+      "other": "back_bloom_petal3",
+      "fraction": 0.068034,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal2",
+      "face": "north",
+      "other": "bramble_plate_-1_1",
+      "fraction": 0.528515,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal2",
+      "face": "north",
+      "other": "back_bloom_pollen",
+      "fraction": 0.191618,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal2",
+      "face": "north",
+      "other": "back_bloom_petal0",
+      "fraction": 0.298361,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal2",
+      "face": "north",
+      "other": "back_bloom_petal1",
+      "fraction": 0.298361,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal2",
+      "face": "east",
+      "other": "bramble_plate_-1_1",
+      "fraction": 0.237623,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal2",
+      "face": "east",
+      "other": "back_bloom_petal0",
+      "fraction": 0.457536,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal2",
+      "face": "west",
+      "other": "bramble_plate_-1_1",
+      "fraction": 0.237623,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal2",
+      "face": "west",
+      "other": "back_bloom_petal1",
+      "fraction": 0.457536,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal2",
+      "face": "up",
+      "other": "back_bloom_pollen",
+      "fraction": 0.198359,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal2",
+      "face": "up",
+      "other": "back_bloom_petal0",
+      "fraction": 0.09975,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal2",
+      "face": "up",
+      "other": "back_bloom_petal1",
+      "fraction": 0.09975,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal2",
+      "face": "down",
+      "other": "bramble_plate_-1_1",
+      "fraction": 0.574633,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal2",
+      "face": "down",
+      "other": "back_bloom_petal0",
+      "fraction": 0.068034,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal2",
+      "face": "down",
+      "other": "back_bloom_petal1",
+      "fraction": 0.068034,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal3",
+      "face": "south",
+      "other": "bramble_plate_-1_1",
+      "fraction": 0.528515,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal3",
+      "face": "south",
+      "other": "back_bloom_pollen",
+      "fraction": 0.191618,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal3",
+      "face": "south",
+      "other": "back_bloom_petal0",
+      "fraction": 0.298361,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal3",
+      "face": "south",
+      "other": "back_bloom_petal1",
+      "fraction": 0.298361,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal3",
+      "face": "east",
+      "other": "bramble_plate_-1_1",
+      "fraction": 0.293843,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal3",
+      "face": "east",
+      "other": "back_bloom_petal0",
+      "fraction": 0.457536,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal3",
+      "face": "west",
+      "other": "bramble_plate_-1_1",
+      "fraction": 0.293843,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal3",
+      "face": "west",
+      "other": "back_bloom_petal1",
+      "fraction": 0.457536,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal3",
+      "face": "up",
+      "other": "back_bloom_pollen",
+      "fraction": 0.198359,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal3",
+      "face": "up",
+      "other": "back_bloom_petal0",
+      "fraction": 0.09975,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal3",
+      "face": "up",
+      "other": "back_bloom_petal1",
+      "fraction": 0.09975,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal3",
+      "face": "down",
+      "other": "bramble_plate_-1_1",
+      "fraction": 0.830218,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal3",
+      "face": "down",
+      "other": "back_bloom_petal0",
+      "fraction": 0.068034,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "back_bloom_petal3",
+      "face": "down",
+      "other": "back_bloom_petal1",
+      "fraction": 0.068034,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    }
+  ],
+  "unsupported": [],
+  "limits": "All textured faces at rest; only configured protected faces during numeric linear sampled animation. Pairwise coverage, not union or visibility; no continuous-time or alpha-mask proof. Full coverage can be intentional. Missing policy is not a pass."
+}

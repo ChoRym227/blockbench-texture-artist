@@ -1,0 +1,703 @@
+{
+  "samples": 301,
+  "counts": {
+    "opposing_contact": 918
+  },
+  "unique_by_kind": {
+    "opposing_contact": 23
+  },
+  "issues": [
+    {
+      "cube_a": "rump",
+      "face_a": "north",
+      "cube_b": "belly",
+      "face_b": "south",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 22.5,
+      "kind": "opposing_contact",
+      "i": 3,
+      "j": 4,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube_a": "moss_mantle_-1_1",
+      "face_a": "south",
+      "cube_b": "moss_mantle_-1_2",
+      "face_b": "north",
+      "plane_distance": 0.04999999999999982,
+      "max_plane_distance": 0.04999999999999982,
+      "overlap_area": 1.3999999999999995,
+      "kind": "opposing_contact",
+      "i": 32,
+      "j": 33,
+      "normal": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube_a": "moss_mantle_1_1",
+      "face_a": "south",
+      "cube_b": "moss_mantle_1_2",
+      "face_b": "north",
+      "plane_distance": 0.04999999999999982,
+      "max_plane_distance": 0.04999999999999982,
+      "overlap_area": 1.3999999999999995,
+      "kind": "opposing_contact",
+      "i": 65,
+      "j": 66,
+      "normal": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube_a": "rump",
+      "face_a": "north",
+      "cube_b": "belly",
+      "face_b": "south",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 22.5,
+      "kind": "opposing_contact",
+      "i": 3,
+      "j": 4,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "idle",
+      "time": 0.0,
+      "hits": 51
+    },
+    {
+      "cube_a": "moss_mantle_-1_1",
+      "face_a": "south",
+      "cube_b": "moss_mantle_-1_2",
+      "face_b": "north",
+      "plane_distance": 0.04999999999999982,
+      "max_plane_distance": 0.04999999999999982,
+      "overlap_area": 1.3999999999999995,
+      "kind": "opposing_contact",
+      "i": 32,
+      "j": 33,
+      "normal": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "clip": "idle",
+      "time": 0.0,
+      "hits": 51
+    },
+    {
+      "cube_a": "moss_mantle_1_1",
+      "face_a": "south",
+      "cube_b": "moss_mantle_1_2",
+      "face_b": "north",
+      "plane_distance": 0.04999999999999982,
+      "max_plane_distance": 0.04999999999999982,
+      "overlap_area": 1.3999999999999995,
+      "kind": "opposing_contact",
+      "i": 65,
+      "j": 66,
+      "normal": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "clip": "idle",
+      "time": 0.0,
+      "hits": 51
+    },
+    {
+      "cube_a": "rump",
+      "face_a": "north",
+      "cube_b": "belly",
+      "face_b": "south",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 22.5,
+      "kind": "opposing_contact",
+      "i": 3,
+      "j": 4,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "walk",
+      "time": 0.0,
+      "hits": 40
+    },
+    {
+      "cube_a": "moss_mantle_-1_1",
+      "face_a": "south",
+      "cube_b": "moss_mantle_-1_2",
+      "face_b": "north",
+      "plane_distance": 0.04999999999999982,
+      "max_plane_distance": 0.04999999999999982,
+      "overlap_area": 1.3999999999999995,
+      "kind": "opposing_contact",
+      "i": 32,
+      "j": 33,
+      "normal": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "clip": "walk",
+      "time": 0.0,
+      "hits": 40
+    },
+    {
+      "cube_a": "moss_mantle_1_1",
+      "face_a": "south",
+      "cube_b": "moss_mantle_1_2",
+      "face_b": "north",
+      "plane_distance": 0.04999999999999982,
+      "max_plane_distance": 0.04999999999999982,
+      "overlap_area": 1.3999999999999995,
+      "kind": "opposing_contact",
+      "i": 65,
+      "j": 66,
+      "normal": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "clip": "walk",
+      "time": 0.0,
+      "hits": 40
+    },
+    {
+      "cube_a": "rump",
+      "face_a": "north",
+      "cube_b": "belly",
+      "face_b": "south",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 22.5,
+      "kind": "opposing_contact",
+      "i": 3,
+      "j": 4,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "attack",
+      "time": 0.0,
+      "hits": 59
+    },
+    {
+      "cube_a": "moss_mantle_-1_1",
+      "face_a": "south",
+      "cube_b": "moss_mantle_-1_2",
+      "face_b": "north",
+      "plane_distance": 0.04999999999999982,
+      "max_plane_distance": 0.04999999999999982,
+      "overlap_area": 1.3999999999999995,
+      "kind": "opposing_contact",
+      "i": 32,
+      "j": 33,
+      "normal": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "clip": "attack",
+      "time": 0.0,
+      "hits": 59
+    },
+    {
+      "cube_a": "moss_mantle_1_1",
+      "face_a": "south",
+      "cube_b": "moss_mantle_1_2",
+      "face_b": "north",
+      "plane_distance": 0.04999999999999982,
+      "max_plane_distance": 0.04999999999999982,
+      "overlap_area": 1.3999999999999995,
+      "kind": "opposing_contact",
+      "i": 65,
+      "j": 66,
+      "normal": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "clip": "attack",
+      "time": 0.0,
+      "hits": 59
+    },
+    {
+      "cube_a": "head",
+      "face_a": "west",
+      "cube_b": "moss_mantle_-1_0",
+      "face_b": "east",
+      "plane_distance": 0.04000000000000048,
+      "max_plane_distance": 0.04000000000000048,
+      "overlap_area": 0.055229147230442865,
+      "kind": "opposing_contact",
+      "i": 8,
+      "j": 31,
+      "normal": [
+        -1.0,
+        0.0,
+        -0.0
+      ],
+      "local_normal_a": [
+        -0.9999999999999999,
+        0.0,
+        0.0
+      ],
+      "local_normal_b": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "clip": "attack",
+      "time": 0.8999999999999999,
+      "hits": 10
+    },
+    {
+      "cube_a": "rump",
+      "face_a": "north",
+      "cube_b": "belly",
+      "face_b": "south",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 22.5,
+      "kind": "opposing_contact",
+      "i": 3,
+      "j": 4,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "skill",
+      "time": 0.0,
+      "hits": 78
+    },
+    {
+      "cube_a": "moss_mantle_-1_1",
+      "face_a": "south",
+      "cube_b": "moss_mantle_-1_2",
+      "face_b": "north",
+      "plane_distance": 0.04999999999999982,
+      "max_plane_distance": 0.04999999999999982,
+      "overlap_area": 1.3999999999999995,
+      "kind": "opposing_contact",
+      "i": 32,
+      "j": 33,
+      "normal": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "clip": "skill",
+      "time": 0.0,
+      "hits": 78
+    },
+    {
+      "cube_a": "moss_mantle_1_1",
+      "face_a": "south",
+      "cube_b": "moss_mantle_1_2",
+      "face_b": "north",
+      "plane_distance": 0.04999999999999982,
+      "max_plane_distance": 0.04999999999999982,
+      "overlap_area": 1.3999999999999995,
+      "kind": "opposing_contact",
+      "i": 65,
+      "j": 66,
+      "normal": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "clip": "skill",
+      "time": 0.0,
+      "hits": 78
+    },
+    {
+      "cube_a": "head",
+      "face_a": "west",
+      "cube_b": "moss_mantle_-1_0",
+      "face_b": "east",
+      "plane_distance": 0.04000000000000048,
+      "max_plane_distance": 0.04000000000000048,
+      "overlap_area": 0.022498751343063894,
+      "kind": "opposing_contact",
+      "i": 8,
+      "j": 31,
+      "normal": [
+        -1.0,
+        0.0,
+        -0.0
+      ],
+      "local_normal_a": [
+        -0.9999999999999999,
+        0.0,
+        0.0
+      ],
+      "local_normal_b": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "clip": "skill",
+      "time": 1.794,
+      "hits": 5
+    },
+    {
+      "cube_a": "rump",
+      "face_a": "north",
+      "cube_b": "belly",
+      "face_b": "south",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 22.5,
+      "kind": "opposing_contact",
+      "i": 3,
+      "j": 4,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "hurt",
+      "time": 0.0,
+      "hits": 16
+    },
+    {
+      "cube_a": "moss_mantle_-1_1",
+      "face_a": "south",
+      "cube_b": "moss_mantle_-1_2",
+      "face_b": "north",
+      "plane_distance": 0.04999999999999982,
+      "max_plane_distance": 0.04999999999999982,
+      "overlap_area": 1.3999999999999995,
+      "kind": "opposing_contact",
+      "i": 32,
+      "j": 33,
+      "normal": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "clip": "hurt",
+      "time": 0.0,
+      "hits": 16
+    },
+    {
+      "cube_a": "moss_mantle_1_1",
+      "face_a": "south",
+      "cube_b": "moss_mantle_1_2",
+      "face_b": "north",
+      "plane_distance": 0.04999999999999982,
+      "max_plane_distance": 0.04999999999999982,
+      "overlap_area": 1.3999999999999995,
+      "kind": "opposing_contact",
+      "i": 65,
+      "j": 66,
+      "normal": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "clip": "hurt",
+      "time": 0.0,
+      "hits": 16
+    },
+    {
+      "cube_a": "rump",
+      "face_a": "north",
+      "cube_b": "belly",
+      "face_b": "south",
+      "plane_distance": 0.0,
+      "max_plane_distance": 0.0,
+      "overlap_area": 22.5,
+      "kind": "opposing_contact",
+      "i": 3,
+      "j": 4,
+      "normal": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "clip": "death",
+      "time": 0.0,
+      "hits": 56
+    },
+    {
+      "cube_a": "moss_mantle_-1_1",
+      "face_a": "south",
+      "cube_b": "moss_mantle_-1_2",
+      "face_b": "north",
+      "plane_distance": 0.04999999999999982,
+      "max_plane_distance": 0.04999999999999982,
+      "overlap_area": 1.3999999999999995,
+      "kind": "opposing_contact",
+      "i": 32,
+      "j": 33,
+      "normal": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "clip": "death",
+      "time": 0.0,
+      "hits": 56
+    },
+    {
+      "cube_a": "moss_mantle_1_1",
+      "face_a": "south",
+      "cube_b": "moss_mantle_1_2",
+      "face_b": "north",
+      "plane_distance": 0.04999999999999982,
+      "max_plane_distance": 0.04999999999999982,
+      "overlap_area": 1.3999999999999995,
+      "kind": "opposing_contact",
+      "i": 65,
+      "j": 66,
+      "normal": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_a": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "local_normal_b": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "clip": "death",
+      "time": 0.0,
+      "hits": 56
+    }
+  ],
+  "unsupported": [],
+  "limits": "Numeric linear XYZ Euler approximation; normals within 0.1 degrees of parallel or antiparallel, exact distance <= 0.0001, near distance <= configured threshold; no occlusion, alpha-mask, runtime or continuous-time guarantee. Opposing contact requires separate review."
+}

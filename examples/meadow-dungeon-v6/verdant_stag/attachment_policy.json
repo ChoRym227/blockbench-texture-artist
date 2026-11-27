@@ -1,0 +1,153 @@
+{
+  "moss_mantle_-1_0": [
+    "ribcage",
+    "shoulders",
+    "waist",
+    "rump"
+  ],
+  "moss_mantle_-1_1": [
+    "ribcage",
+    "shoulders",
+    "waist",
+    "rump"
+  ],
+  "moss_mantle_-1_2": [
+    "ribcage",
+    "shoulders",
+    "waist",
+    "rump"
+  ],
+  "moss_mantle_-1_3": [
+    "ribcage",
+    "shoulders",
+    "waist",
+    "rump"
+  ],
+  "moss_mantle_1_0": [
+    "ribcage",
+    "shoulders",
+    "waist",
+    "rump"
+  ],
+  "moss_mantle_1_1": [
+    "ribcage",
+    "shoulders",
+    "waist",
+    "rump"
+  ],
+  "moss_mantle_1_2": [
+    "ribcage",
+    "shoulders",
+    "waist",
+    "rump"
+  ],
+  "moss_mantle_1_3": [
+    "ribcage",
+    "shoulders",
+    "waist",
+    "rump"
+  ],
+  "chest_gem": [
+    "chest"
+  ],
+  "back_bloom_pollen": [
+    "back_bloom_petal1",
+    "back_bloom_petal3",
+    "back_bloom_petal2",
+    "back_bloom_petal0"
+  ],
+  "back_bloom_petal0": [
+    "moss_mantle_1_1",
+    "moss_mantle_-1_0",
+    "moss_mantle_-1_3",
+    "moss_mantle_1_3",
+    "moss_mantle_1_0",
+    "moss_mantle_-1_2",
+    "moss_mantle_1_2",
+    "moss_mantle_-1_1",
+    "back_bloom_pollen"
+  ],
+  "back_bloom_petal1": [
+    "moss_mantle_1_1",
+    "moss_mantle_-1_0",
+    "moss_mantle_-1_3",
+    "moss_mantle_1_3",
+    "moss_mantle_1_0",
+    "moss_mantle_-1_2",
+    "moss_mantle_1_2",
+    "moss_mantle_-1_1",
+    "back_bloom_pollen"
+  ],
+  "back_bloom_petal2": [
+    "moss_mantle_1_1",
+    "moss_mantle_-1_0",
+    "moss_mantle_-1_3",
+    "moss_mantle_1_3",
+    "moss_mantle_1_0",
+    "moss_mantle_-1_2",
+    "moss_mantle_1_2",
+    "moss_mantle_-1_1",
+    "back_bloom_pollen"
+  ],
+  "back_bloom_petal3": [
+    "moss_mantle_1_1",
+    "moss_mantle_-1_0",
+    "moss_mantle_-1_3",
+    "moss_mantle_1_3",
+    "moss_mantle_1_0",
+    "moss_mantle_-1_2",
+    "moss_mantle_1_2",
+    "moss_mantle_-1_1",
+    "back_bloom_pollen"
+  ],
+  "back_bloom2_pollen": [
+    "back_bloom2_petal0",
+    "back_bloom2_petal3",
+    "back_bloom2_petal1",
+    "back_bloom2_petal2"
+  ],
+  "back_bloom2_petal0": [
+    "moss_mantle_1_1",
+    "moss_mantle_-1_0",
+    "moss_mantle_-1_3",
+    "moss_mantle_1_3",
+    "moss_mantle_1_0",
+    "moss_mantle_-1_2",
+    "moss_mantle_1_2",
+    "moss_mantle_-1_1",
+    "back_bloom2_pollen"
+  ],
+  "back_bloom2_petal1": [
+    "moss_mantle_1_1",
+    "moss_mantle_-1_0",
+    "moss_mantle_-1_3",
+    "moss_mantle_1_3",
+    "moss_mantle_1_0",
+    "moss_mantle_-1_2",
+    "moss_mantle_1_2",
+    "moss_mantle_-1_1",
+    "back_bloom2_pollen"
+  ],
+  "back_bloom2_petal2": [
+    "moss_mantle_1_1",
+    "moss_mantle_-1_0",
+    "moss_mantle_-1_3",
+    "moss_mantle_1_3",
+    "moss_mantle_1_0",
+    "moss_mantle_-1_2",
+    "moss_mantle_1_2",
+    "moss_mantle_-1_1",
+    "back_bloom2_pollen"
+  ],
+  "back_bloom2_petal3": [
+    "moss_mantle_1_1",
+    "moss_mantle_-1_0",
+    "moss_mantle_-1_3",
+    "moss_mantle_1_3",
+    "moss_mantle_1_0",
+    "moss_mantle_-1_2",
+    "moss_mantle_1_2",
+    "moss_mantle_-1_1",
+    "back_bloom2_pollen"
+  ]
+}

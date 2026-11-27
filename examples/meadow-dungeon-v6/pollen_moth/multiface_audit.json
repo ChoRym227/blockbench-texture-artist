@@ -1,0 +1,667 @@
+{
+  "selected_faces": 55,
+  "warnings": [],
+  "faces": [
+    {
+      "cube": "crest",
+      "face": "north",
+      "size": [
+        4,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 53.2,
+      "eligible": true
+    },
+    {
+      "cube": "crest",
+      "face": "south",
+      "size": [
+        4,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 53.2,
+      "eligible": true
+    },
+    {
+      "cube": "crest",
+      "face": "east",
+      "size": [
+        3,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 53.2,
+      "eligible": true
+    },
+    {
+      "cube": "crest",
+      "face": "west",
+      "size": [
+        3,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 53.2,
+      "eligible": true
+    },
+    {
+      "cube": "crest",
+      "face": "up",
+      "size": [
+        4,
+        3
+      ],
+      "colors": 4,
+      "dominance": 0.333,
+      "luma_range": 108.75,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_-1_base",
+      "face": "north",
+      "size": [
+        6,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.833,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_-1_base",
+      "face": "south",
+      "size": [
+        6,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.833,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_-1_base",
+      "face": "east",
+      "size": [
+        7,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.857,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_-1_base",
+      "face": "west",
+      "size": [
+        7,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.857,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_-1_base",
+      "face": "up",
+      "size": [
+        6,
+        7
+      ],
+      "colors": 5,
+      "dominance": 0.548,
+      "luma_range": 162.14,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_-1_outer",
+      "face": "north",
+      "size": [
+        7,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.857,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_-1_outer",
+      "face": "south",
+      "size": [
+        7,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.857,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_-1_outer",
+      "face": "east",
+      "size": [
+        8,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.75,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_-1_outer",
+      "face": "west",
+      "size": [
+        8,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.75,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_-1_outer",
+      "face": "up",
+      "size": [
+        7,
+        8
+      ],
+      "colors": 5,
+      "dominance": 0.571,
+      "luma_range": 162.14,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_-1_tip",
+      "face": "north",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "wing_fore_-1_tip",
+      "face": "south",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "wing_fore_-1_tip",
+      "face": "east",
+      "size": [
+        5,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.8,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_-1_tip",
+      "face": "west",
+      "size": [
+        5,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.8,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_-1_tip",
+      "face": "up",
+      "size": [
+        3,
+        5
+      ],
+      "colors": 4,
+      "dominance": 0.467,
+      "luma_range": 134.32,
+      "eligible": true
+    },
+    {
+      "cube": "wing_hind_-1_base",
+      "face": "north",
+      "size": [
+        6,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.833,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_hind_-1_base",
+      "face": "south",
+      "size": [
+        6,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.833,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_hind_-1_base",
+      "face": "east",
+      "size": [
+        6,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.833,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_hind_-1_base",
+      "face": "west",
+      "size": [
+        6,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.833,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_hind_-1_base",
+      "face": "up",
+      "size": [
+        6,
+        6
+      ],
+      "colors": 5,
+      "dominance": 0.528,
+      "luma_range": 162.14,
+      "eligible": true
+    },
+    {
+      "cube": "wing_hind_-1_outer",
+      "face": "north",
+      "size": [
+        5,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.8,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_hind_-1_outer",
+      "face": "south",
+      "size": [
+        5,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.8,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_hind_-1_outer",
+      "face": "east",
+      "size": [
+        6,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.833,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_hind_-1_outer",
+      "face": "west",
+      "size": [
+        6,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.833,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_hind_-1_outer",
+      "face": "up",
+      "size": [
+        5,
+        6
+      ],
+      "colors": 5,
+      "dominance": 0.5,
+      "luma_range": 162.14,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_1_base",
+      "face": "north",
+      "size": [
+        6,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.833,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_1_base",
+      "face": "south",
+      "size": [
+        6,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.833,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_1_base",
+      "face": "east",
+      "size": [
+        7,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.857,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_1_base",
+      "face": "west",
+      "size": [
+        7,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.857,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_1_base",
+      "face": "up",
+      "size": [
+        6,
+        7
+      ],
+      "colors": 5,
+      "dominance": 0.548,
+      "luma_range": 162.14,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_1_outer",
+      "face": "north",
+      "size": [
+        7,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.857,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_1_outer",
+      "face": "south",
+      "size": [
+        7,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.857,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_1_outer",
+      "face": "east",
+      "size": [
+        8,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.75,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_1_outer",
+      "face": "west",
+      "size": [
+        8,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.75,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_1_outer",
+      "face": "up",
+      "size": [
+        7,
+        8
+      ],
+      "colors": 5,
+      "dominance": 0.571,
+      "luma_range": 162.14,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_1_tip",
+      "face": "north",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "wing_fore_1_tip",
+      "face": "south",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "wing_fore_1_tip",
+      "face": "east",
+      "size": [
+        5,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.8,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_1_tip",
+      "face": "west",
+      "size": [
+        5,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.8,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_fore_1_tip",
+      "face": "up",
+      "size": [
+        3,
+        5
+      ],
+      "colors": 4,
+      "dominance": 0.467,
+      "luma_range": 134.32,
+      "eligible": true
+    },
+    {
+      "cube": "wing_hind_1_base",
+      "face": "north",
+      "size": [
+        6,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.833,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_hind_1_base",
+      "face": "south",
+      "size": [
+        6,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.833,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_hind_1_base",
+      "face": "east",
+      "size": [
+        6,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.833,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_hind_1_base",
+      "face": "west",
+      "size": [
+        6,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.833,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_hind_1_base",
+      "face": "up",
+      "size": [
+        6,
+        6
+      ],
+      "colors": 5,
+      "dominance": 0.528,
+      "luma_range": 162.14,
+      "eligible": true
+    },
+    {
+      "cube": "wing_hind_1_outer",
+      "face": "north",
+      "size": [
+        5,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.8,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_hind_1_outer",
+      "face": "south",
+      "size": [
+        5,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.8,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_hind_1_outer",
+      "face": "east",
+      "size": [
+        6,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.833,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_hind_1_outer",
+      "face": "west",
+      "size": [
+        6,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.833,
+      "luma_range": 80.6,
+      "eligible": true
+    },
+    {
+      "cube": "wing_hind_1_outer",
+      "face": "up",
+      "size": [
+        5,
+        6
+      ],
+      "colors": 5,
+      "dominance": 0.5,
+      "luma_range": 162.14,
+      "eligible": true
+    }
+  ],
+  "limits": "Heuristic: selected visible-intent faces only, tiny faces exempt; variation does not prove material quality or seam continuity. Inspect actual multi-angle renders."
+}

@@ -1,0 +1,427 @@
+{
+  "selected_faces": 35,
+  "warnings": [],
+  "faces": [
+    {
+      "cube": "sprout_leaf_l",
+      "face": "north",
+      "size": [
+        6,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.833,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "sprout_leaf_l",
+      "face": "south",
+      "size": [
+        6,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.833,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "sprout_leaf_l",
+      "face": "east",
+      "size": [
+        4,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.75,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "sprout_leaf_l",
+      "face": "west",
+      "size": [
+        4,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.75,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "sprout_leaf_l",
+      "face": "up",
+      "size": [
+        6,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.708,
+      "luma_range": 34.19,
+      "eligible": true
+    },
+    {
+      "cube": "sprout_leaf_r",
+      "face": "north",
+      "size": [
+        5,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.8,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "sprout_leaf_r",
+      "face": "south",
+      "size": [
+        5,
+        1
+      ],
+      "colors": 2,
+      "dominance": 0.8,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "sprout_leaf_r",
+      "face": "east",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "sprout_leaf_r",
+      "face": "west",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "sprout_leaf_r",
+      "face": "up",
+      "size": [
+        5,
+        3
+      ],
+      "colors": 2,
+      "dominance": 0.6,
+      "luma_range": 34.19,
+      "eligible": true
+    },
+    {
+      "cube": "bloom_pollen",
+      "face": "north",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "bloom_pollen",
+      "face": "south",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "bloom_pollen",
+      "face": "east",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "bloom_pollen",
+      "face": "west",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "bloom_pollen",
+      "face": "up",
+      "size": [
+        2,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 78.24,
+      "eligible": true
+    },
+    {
+      "cube": "bloom_petal0",
+      "face": "north",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "bloom_petal0",
+      "face": "south",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "bloom_petal0",
+      "face": "east",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "bloom_petal0",
+      "face": "west",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "bloom_petal0",
+      "face": "up",
+      "size": [
+        2,
+        3
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.37,
+      "eligible": true
+    },
+    {
+      "cube": "bloom_petal1",
+      "face": "north",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "bloom_petal1",
+      "face": "south",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "bloom_petal1",
+      "face": "east",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "bloom_petal1",
+      "face": "west",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "bloom_petal1",
+      "face": "up",
+      "size": [
+        2,
+        3
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.37,
+      "eligible": true
+    },
+    {
+      "cube": "bloom_petal2",
+      "face": "north",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "bloom_petal2",
+      "face": "south",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "bloom_petal2",
+      "face": "east",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "bloom_petal2",
+      "face": "west",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "bloom_petal2",
+      "face": "up",
+      "size": [
+        3,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.37,
+      "eligible": true
+    },
+    {
+      "cube": "bloom_petal3",
+      "face": "north",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "bloom_petal3",
+      "face": "south",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "bloom_petal3",
+      "face": "east",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "bloom_petal3",
+      "face": "west",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "bloom_petal3",
+      "face": "up",
+      "size": [
+        3,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.37,
+      "eligible": true
+    }
+  ],
+  "limits": "Heuristic: selected visible-intent faces only, tiny faces exempt; variation does not prove material quality or seam continuity. Inspect actual multi-angle renders."
+}

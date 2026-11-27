@@ -1,0 +1,26 @@
+{
+  "chest_heart": [
+    "rib_core",
+    "rib_plate_-1",
+    "rib_plate_1"
+  ],
+  "shoulder_bloom_pollen": [
+    "shoulder_-1"
+  ],
+  "shoulder_bloom_petal0": [
+    "shoulder_-1",
+    "shoulder_bloom_pollen"
+  ],
+  "shoulder_bloom_petal1": [
+    "shoulder_-1",
+    "shoulder_bloom_pollen"
+  ],
+  "shoulder_bloom_petal2": [
+    "shoulder_-1",
+    "shoulder_bloom_pollen"
+  ],
+  "shoulder_bloom_petal3": [
+    "shoulder_-1",
+    "shoulder_bloom_pollen"
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "bramble_plate_-1_1": {
+    "protected_faces": [
+      "up"
+    ],
+    "allow": {
+      "up": [
+        "back_bloom_pollen",
+        "back_bloom_petal0",
+        "back_bloom_petal1",
+        "back_bloom_petal2",
+        "back_bloom_petal3"
+      ]
+    },
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "bramble_plate_-1_2": {
+    "protected_faces": [
+      "up"
+    ],
+    "allow": {
+      "up": [
+        "thorn_-1_2"
+      ]
+    },
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "thorn_-1_2": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "bramble_plate_-1_3": {
+    "protected_faces": [
+      "up"
+    ],
+    "allow": {
+      "up": [
+        "thorn_-1_3"
+      ]
+    },
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "thorn_-1_3": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "bramble_plate_1_1": {
+    "protected_faces": [
+      "up"
+    ],
+    "allow": {
+      "up": [
+        "thorn_1_1"
+      ]
+    },
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "thorn_1_1": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "bramble_plate_1_2": {
+    "protected_faces": [
+      "up"
+    ],
+    "allow": {
+      "up": [
+        "thorn_1_2"
+      ]
+    },
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "thorn_1_2": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "bramble_plate_1_3": {
+    "protected_faces": [
+      "up"
+    ],
+    "allow": {
+      "up": [
+        "thorn_1_3"
+      ]
+    },
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "thorn_1_3": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "back_bloom_pollen": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "back_bloom_petal0": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "back_bloom_petal1": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "back_bloom_petal2": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "back_bloom_petal3": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  }
+}

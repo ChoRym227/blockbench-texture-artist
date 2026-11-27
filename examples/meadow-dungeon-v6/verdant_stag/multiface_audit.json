@@ -1,0 +1,1747 @@
+{
+  "selected_faces": 145,
+  "warnings": [],
+  "faces": [
+    {
+      "cube": "antler_flower_-1_pollen",
+      "face": "north",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_-1_pollen",
+      "face": "south",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_-1_pollen",
+      "face": "east",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_-1_pollen",
+      "face": "west",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_-1_pollen",
+      "face": "up",
+      "size": [
+        2,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 78.24,
+      "eligible": true
+    },
+    {
+      "cube": "antler_flower_-1_petal0",
+      "face": "north",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_-1_petal0",
+      "face": "south",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_-1_petal0",
+      "face": "east",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_-1_petal0",
+      "face": "west",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_-1_petal0",
+      "face": "up",
+      "size": [
+        2,
+        3
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.37,
+      "eligible": true
+    },
+    {
+      "cube": "antler_flower_-1_petal1",
+      "face": "north",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_-1_petal1",
+      "face": "south",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_-1_petal1",
+      "face": "east",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_-1_petal1",
+      "face": "west",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_-1_petal1",
+      "face": "up",
+      "size": [
+        2,
+        3
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.37,
+      "eligible": true
+    },
+    {
+      "cube": "antler_flower_-1_petal2",
+      "face": "north",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_-1_petal2",
+      "face": "south",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_-1_petal2",
+      "face": "east",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_-1_petal2",
+      "face": "west",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_-1_petal2",
+      "face": "up",
+      "size": [
+        3,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.37,
+      "eligible": true
+    },
+    {
+      "cube": "antler_flower_-1_petal3",
+      "face": "north",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_-1_petal3",
+      "face": "south",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_-1_petal3",
+      "face": "east",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_-1_petal3",
+      "face": "west",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_-1_petal3",
+      "face": "up",
+      "size": [
+        3,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.37,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_-1_0",
+      "face": "north",
+      "size": [
+        3,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_-1_0",
+      "face": "south",
+      "size": [
+        3,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_-1_0",
+      "face": "east",
+      "size": [
+        4,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_-1_0",
+      "face": "west",
+      "size": [
+        4,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_-1_0",
+      "face": "up",
+      "size": [
+        3,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.667,
+      "luma_range": 37.69,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_-1_1",
+      "face": "north",
+      "size": [
+        3,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_-1_1",
+      "face": "south",
+      "size": [
+        3,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_-1_1",
+      "face": "east",
+      "size": [
+        4,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_-1_1",
+      "face": "west",
+      "size": [
+        4,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_-1_1",
+      "face": "up",
+      "size": [
+        3,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.667,
+      "luma_range": 37.69,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_-1_2",
+      "face": "north",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_-1_2",
+      "face": "south",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_-1_2",
+      "face": "east",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_-1_2",
+      "face": "west",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_-1_2",
+      "face": "up",
+      "size": [
+        5,
+        5
+      ],
+      "colors": 2,
+      "dominance": 0.52,
+      "luma_range": 37.69,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_-1_3",
+      "face": "north",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_-1_3",
+      "face": "south",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_-1_3",
+      "face": "east",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_-1_3",
+      "face": "west",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_-1_3",
+      "face": "up",
+      "size": [
+        5,
+        5
+      ],
+      "colors": 2,
+      "dominance": 0.52,
+      "luma_range": 37.69,
+      "eligible": true
+    },
+    {
+      "cube": "antler_flower_1_pollen",
+      "face": "north",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_1_pollen",
+      "face": "south",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_1_pollen",
+      "face": "east",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_1_pollen",
+      "face": "west",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_1_pollen",
+      "face": "up",
+      "size": [
+        2,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 78.24,
+      "eligible": true
+    },
+    {
+      "cube": "antler_flower_1_petal0",
+      "face": "north",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_1_petal0",
+      "face": "south",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_1_petal0",
+      "face": "east",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_1_petal0",
+      "face": "west",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_1_petal0",
+      "face": "up",
+      "size": [
+        2,
+        3
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.37,
+      "eligible": true
+    },
+    {
+      "cube": "antler_flower_1_petal1",
+      "face": "north",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_1_petal1",
+      "face": "south",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_1_petal1",
+      "face": "east",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_1_petal1",
+      "face": "west",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_1_petal1",
+      "face": "up",
+      "size": [
+        2,
+        3
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.37,
+      "eligible": true
+    },
+    {
+      "cube": "antler_flower_1_petal2",
+      "face": "north",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_1_petal2",
+      "face": "south",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_1_petal2",
+      "face": "east",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_1_petal2",
+      "face": "west",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_1_petal2",
+      "face": "up",
+      "size": [
+        3,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.37,
+      "eligible": true
+    },
+    {
+      "cube": "antler_flower_1_petal3",
+      "face": "north",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_1_petal3",
+      "face": "south",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_1_petal3",
+      "face": "east",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_1_petal3",
+      "face": "west",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "antler_flower_1_petal3",
+      "face": "up",
+      "size": [
+        3,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.37,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_1_0",
+      "face": "north",
+      "size": [
+        3,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_1_0",
+      "face": "south",
+      "size": [
+        3,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_1_0",
+      "face": "east",
+      "size": [
+        4,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_1_0",
+      "face": "west",
+      "size": [
+        4,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_1_0",
+      "face": "up",
+      "size": [
+        3,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.667,
+      "luma_range": 37.69,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_1_1",
+      "face": "north",
+      "size": [
+        3,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_1_1",
+      "face": "south",
+      "size": [
+        3,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_1_1",
+      "face": "east",
+      "size": [
+        4,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_1_1",
+      "face": "west",
+      "size": [
+        4,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_1_1",
+      "face": "up",
+      "size": [
+        3,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.667,
+      "luma_range": 37.69,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_1_2",
+      "face": "north",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_1_2",
+      "face": "south",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_1_2",
+      "face": "east",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_1_2",
+      "face": "west",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_1_2",
+      "face": "up",
+      "size": [
+        5,
+        5
+      ],
+      "colors": 2,
+      "dominance": 0.52,
+      "luma_range": 37.69,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_1_3",
+      "face": "north",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_1_3",
+      "face": "south",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_1_3",
+      "face": "east",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_1_3",
+      "face": "west",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 69.67,
+      "eligible": true
+    },
+    {
+      "cube": "moss_mantle_1_3",
+      "face": "up",
+      "size": [
+        5,
+        5
+      ],
+      "colors": 2,
+      "dominance": 0.52,
+      "luma_range": 37.69,
+      "eligible": true
+    },
+    {
+      "cube": "chest_gem",
+      "face": "north",
+      "size": [
+        5,
+        5
+      ],
+      "colors": 4,
+      "dominance": 0.32,
+      "luma_range": 144.01,
+      "eligible": true
+    },
+    {
+      "cube": "chest_gem",
+      "face": "south",
+      "size": [
+        5,
+        5
+      ],
+      "colors": 4,
+      "dominance": 0.32,
+      "luma_range": 144.01,
+      "eligible": true
+    },
+    {
+      "cube": "chest_gem",
+      "face": "east",
+      "size": [
+        2,
+        5
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 111.16,
+      "eligible": true
+    },
+    {
+      "cube": "chest_gem",
+      "face": "west",
+      "size": [
+        2,
+        5
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 111.16,
+      "eligible": true
+    },
+    {
+      "cube": "chest_gem",
+      "face": "up",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 111.16,
+      "eligible": true
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "north",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "south",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "east",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "west",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "up",
+      "size": [
+        2,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 78.24,
+      "eligible": true
+    },
+    {
+      "cube": "back_bloom_petal0",
+      "face": "north",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal0",
+      "face": "south",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal0",
+      "face": "east",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal0",
+      "face": "west",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal0",
+      "face": "up",
+      "size": [
+        2,
+        3
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.37,
+      "eligible": true
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "north",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "south",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "east",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "west",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "up",
+      "size": [
+        2,
+        3
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.37,
+      "eligible": true
+    },
+    {
+      "cube": "back_bloom_petal2",
+      "face": "north",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal2",
+      "face": "south",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal2",
+      "face": "east",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal2",
+      "face": "west",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal2",
+      "face": "up",
+      "size": [
+        3,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.37,
+      "eligible": true
+    },
+    {
+      "cube": "back_bloom_petal3",
+      "face": "north",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal3",
+      "face": "south",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal3",
+      "face": "east",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal3",
+      "face": "west",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal3",
+      "face": "up",
+      "size": [
+        3,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.37,
+      "eligible": true
+    },
+    {
+      "cube": "back_bloom2_pollen",
+      "face": "north",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom2_pollen",
+      "face": "south",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom2_pollen",
+      "face": "east",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom2_pollen",
+      "face": "west",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom2_pollen",
+      "face": "up",
+      "size": [
+        2,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 78.24,
+      "eligible": true
+    },
+    {
+      "cube": "back_bloom2_petal0",
+      "face": "north",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom2_petal0",
+      "face": "south",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom2_petal0",
+      "face": "east",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom2_petal0",
+      "face": "west",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom2_petal0",
+      "face": "up",
+      "size": [
+        2,
+        3
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.37,
+      "eligible": true
+    },
+    {
+      "cube": "back_bloom2_petal1",
+      "face": "north",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom2_petal1",
+      "face": "south",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom2_petal1",
+      "face": "east",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom2_petal1",
+      "face": "west",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom2_petal1",
+      "face": "up",
+      "size": [
+        2,
+        3
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.37,
+      "eligible": true
+    },
+    {
+      "cube": "back_bloom2_petal2",
+      "face": "north",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom2_petal2",
+      "face": "south",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom2_petal2",
+      "face": "east",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom2_petal2",
+      "face": "west",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom2_petal2",
+      "face": "up",
+      "size": [
+        3,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.37,
+      "eligible": true
+    },
+    {
+      "cube": "back_bloom2_petal3",
+      "face": "north",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom2_petal3",
+      "face": "south",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom2_petal3",
+      "face": "east",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom2_petal3",
+      "face": "west",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom2_petal3",
+      "face": "up",
+      "size": [
+        3,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.37,
+      "eligible": true
+    }
+  ],
+  "limits": "Heuristic: selected visible-intent faces only, tiny faces exempt; variation does not prove material quality or seam continuity. Inspect actual multi-angle renders."
+}

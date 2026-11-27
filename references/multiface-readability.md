@@ -1,0 +1,10 @@
+# Multi-face readability & surface detail preservation (V6)
+
+A focal object must read as a material volume, not a textured sticker. Inspect every exposed face in front, both 3/4 directions, side, rear, elevated and underside if visible. Design top, sides and underside for the material, not indiscriminate duplicated front motifs. Maintain continuity at adjacent edges with correct UV orientation and local light direction.
+
+- Flat decals: motifs, scars, shallow moss and leaf veins are painted into the supporting face; do not introduce coincident geometry.
+- Thin plates: broad face carries the motif; thin edges carry cross-section material, a selective rim or broken highlight and shadow. Use the available 1–2 texel strips purposefully, without stretching their UV. Do not require noise on tiny 1px faces; a deliberate solid color may be correct. Back/underside gets suitable shadow and material rather than copied front markings. Preserve silhouette.
+- Solid ornaments: distinct crystal facets, metal bevel tones, wood end grain, flower petal underside and leaf edge. Use separate geometry only if it changes visible volume or motion. Do not add nested overlays to fix a purely texture issue.
+- When editing a shared UV tile, allocate a new island if the other users need the old image. Reuse identical compatible tiles, with direction and edge continuity checked. Preserve native texel density, 1px padding and opaque pixels.
+- Run `check_multiface_readability.py MODEL --policy surface_policy.json --output multiface_audit.json`. Its palette/luma/dominance test is a heuristic on selected `detail_faces`, not a visual classifier; flat areas may be valid. Do not game the metric by injecting random pixels. Review any warning and record justified exceptions. A zero-warning result alone is not sufficient. No claim of exposure/edge continuity from pixel statistics.
+- Render enlarged views of focal details from at least 3 directions, as well as whole-model views. Verify both silhouette and material continuity at intended game scale. Repeat the V5/V6 geometry checks when new geometry is introduced.

@@ -1,0 +1,35 @@
+{
+  "id": "root_guardian",
+  "cubes": 49,
+  "animations": 6,
+  "uv": {
+    "faces": 294,
+    "unique_uv": 95,
+    "shared_faces": 199,
+    "errors": [],
+    "limitations": "Exact rectangle sharing allowed; artistic compatibility requires review."
+  },
+  "geometry": {
+    "elements": 49,
+    "flagged": 0,
+    "cloth_high": 0,
+    "candidates": [],
+    "limitations": "Name-based cloth heuristic and local dimensions only. Review actual role, adjacency, silhouette, joints, UVs and runtime separately. Flags are not automatic failures."
+  },
+  "surface_samples": 324,
+  "protected_before_rest": 0,
+  "protected_after_rest": 0,
+  "protected_hits": 0,
+  "protected_faces": 1,
+  "rest_partial_coverage": 641,
+  "rest_fully_covered": 21,
+  "z_counts": {
+    "opposing_contact": 1094
+  },
+  "detail_faces": 85,
+  "detail_warnings": 0,
+  "unsupported": [],
+  "animation_tracks_unchanged": true,
+  "attachment_checks": 6,
+  "attachment_warnings": 0
+}

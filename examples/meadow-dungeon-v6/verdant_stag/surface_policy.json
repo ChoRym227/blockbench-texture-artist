@@ -1,0 +1,367 @@
+{
+  "moss_mantle_-1_0": {
+    "protected_faces": [
+      "up"
+    ],
+    "allow": {
+      "up": [
+        "back_bloom2_pollen",
+        "back_bloom2_petal0",
+        "back_bloom2_petal1",
+        "back_bloom2_petal2",
+        "back_bloom2_petal3"
+      ]
+    },
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "moss_mantle_-1_1": {
+    "protected_faces": [
+      "up"
+    ],
+    "allow": {
+      "up": []
+    },
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "moss_mantle_-1_2": {
+    "protected_faces": [
+      "up"
+    ],
+    "allow": {
+      "up": []
+    },
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "moss_mantle_-1_3": {
+    "protected_faces": [
+      "up"
+    ],
+    "allow": {
+      "up": []
+    },
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "moss_mantle_1_0": {
+    "protected_faces": [
+      "up"
+    ],
+    "allow": {
+      "up": []
+    },
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "moss_mantle_1_1": {
+    "protected_faces": [
+      "up"
+    ],
+    "allow": {
+      "up": []
+    },
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "moss_mantle_1_2": {
+    "protected_faces": [
+      "up"
+    ],
+    "allow": {
+      "up": [
+        "back_bloom_pollen",
+        "back_bloom_petal0",
+        "back_bloom_petal1",
+        "back_bloom_petal2",
+        "back_bloom_petal3"
+      ]
+    },
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "moss_mantle_1_3": {
+    "protected_faces": [
+      "up"
+    ],
+    "allow": {
+      "up": []
+    },
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "chest_gem": {
+    "protected_faces": [
+      "north"
+    ],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "antler_flower_-1_pollen": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "antler_flower_-1_petal0": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "antler_flower_-1_petal1": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "antler_flower_-1_petal2": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "antler_flower_-1_petal3": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "antler_flower_1_pollen": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "antler_flower_1_petal0": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "antler_flower_1_petal1": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "antler_flower_1_petal2": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "antler_flower_1_petal3": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "back_bloom_pollen": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "back_bloom_petal0": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "back_bloom_petal1": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "back_bloom_petal2": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "back_bloom_petal3": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "back_bloom2_pollen": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "back_bloom2_petal0": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "back_bloom2_petal1": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "back_bloom2_petal2": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "back_bloom2_petal3": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  }
+}

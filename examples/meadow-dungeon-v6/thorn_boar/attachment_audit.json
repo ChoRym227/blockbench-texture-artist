@@ -1,0 +1,7 @@
+{
+  "samples": 247,
+  "attachments": 16,
+  "warnings": [],
+  "unsupported": [],
+  "limits": "SAT separation axis gap, not Euclidean closest distance; explicit supports only, numeric sampled poses, no continuous or runtime proof."
+}

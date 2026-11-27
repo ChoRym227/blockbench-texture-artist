@@ -1,0 +1,967 @@
+{
+  "selected_faces": 80,
+  "warnings": [],
+  "faces": [
+    {
+      "cube": "bramble_plate_-1_1",
+      "face": "north",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_-1_1",
+      "face": "south",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_-1_1",
+      "face": "east",
+      "size": [
+        4,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_-1_1",
+      "face": "west",
+      "size": [
+        4,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_-1_1",
+      "face": "up",
+      "size": [
+        5,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.65,
+      "luma_range": 34.19,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_-1_2",
+      "face": "north",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_-1_2",
+      "face": "south",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_-1_2",
+      "face": "east",
+      "size": [
+        4,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_-1_2",
+      "face": "west",
+      "size": [
+        4,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_-1_2",
+      "face": "up",
+      "size": [
+        5,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.65,
+      "luma_range": 34.19,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_-1_2",
+      "face": "north",
+      "size": [
+        1,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.75,
+      "luma_range": 73.87,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_-1_2",
+      "face": "south",
+      "size": [
+        1,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.75,
+      "luma_range": 73.87,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_-1_2",
+      "face": "east",
+      "size": [
+        1,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.75,
+      "luma_range": 73.87,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_-1_2",
+      "face": "west",
+      "size": [
+        1,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.75,
+      "luma_range": 73.87,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_-1_2",
+      "face": "up",
+      "size": [
+        1,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "bramble_plate_-1_3",
+      "face": "north",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_-1_3",
+      "face": "south",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_-1_3",
+      "face": "east",
+      "size": [
+        4,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_-1_3",
+      "face": "west",
+      "size": [
+        4,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_-1_3",
+      "face": "up",
+      "size": [
+        5,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.65,
+      "luma_range": 34.19,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_-1_3",
+      "face": "north",
+      "size": [
+        1,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.75,
+      "luma_range": 73.87,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_-1_3",
+      "face": "south",
+      "size": [
+        1,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.75,
+      "luma_range": 73.87,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_-1_3",
+      "face": "east",
+      "size": [
+        1,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.75,
+      "luma_range": 73.87,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_-1_3",
+      "face": "west",
+      "size": [
+        1,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.75,
+      "luma_range": 73.87,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_-1_3",
+      "face": "up",
+      "size": [
+        1,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "bramble_plate_1_1",
+      "face": "north",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_1_1",
+      "face": "south",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_1_1",
+      "face": "east",
+      "size": [
+        4,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_1_1",
+      "face": "west",
+      "size": [
+        4,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_1_1",
+      "face": "up",
+      "size": [
+        5,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.65,
+      "luma_range": 34.19,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_1_1",
+      "face": "north",
+      "size": [
+        2,
+        4
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 73.87,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_1_1",
+      "face": "south",
+      "size": [
+        2,
+        4
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 73.87,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_1_1",
+      "face": "east",
+      "size": [
+        2,
+        4
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 73.87,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_1_1",
+      "face": "west",
+      "size": [
+        2,
+        4
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 73.87,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_1_1",
+      "face": "up",
+      "size": [
+        2,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 73.87,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_1_2",
+      "face": "north",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_1_2",
+      "face": "south",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_1_2",
+      "face": "east",
+      "size": [
+        4,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_1_2",
+      "face": "west",
+      "size": [
+        4,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_1_2",
+      "face": "up",
+      "size": [
+        5,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.65,
+      "luma_range": 34.19,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_1_2",
+      "face": "north",
+      "size": [
+        1,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.75,
+      "luma_range": 73.87,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_1_2",
+      "face": "south",
+      "size": [
+        1,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.75,
+      "luma_range": 73.87,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_1_2",
+      "face": "east",
+      "size": [
+        1,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.75,
+      "luma_range": 73.87,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_1_2",
+      "face": "west",
+      "size": [
+        1,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.75,
+      "luma_range": 73.87,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_1_2",
+      "face": "up",
+      "size": [
+        1,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "bramble_plate_1_3",
+      "face": "north",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_1_3",
+      "face": "south",
+      "size": [
+        5,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_1_3",
+      "face": "east",
+      "size": [
+        4,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_1_3",
+      "face": "west",
+      "size": [
+        4,
+        2
+      ],
+      "colors": 3,
+      "dominance": 0.5,
+      "luma_range": 67.24,
+      "eligible": true
+    },
+    {
+      "cube": "bramble_plate_1_3",
+      "face": "up",
+      "size": [
+        5,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.65,
+      "luma_range": 34.19,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_1_3",
+      "face": "north",
+      "size": [
+        1,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.75,
+      "luma_range": 73.87,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_1_3",
+      "face": "south",
+      "size": [
+        1,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.75,
+      "luma_range": 73.87,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_1_3",
+      "face": "east",
+      "size": [
+        1,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.75,
+      "luma_range": 73.87,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_1_3",
+      "face": "west",
+      "size": [
+        1,
+        4
+      ],
+      "colors": 2,
+      "dominance": 0.75,
+      "luma_range": 73.87,
+      "eligible": true
+    },
+    {
+      "cube": "thorn_1_3",
+      "face": "up",
+      "size": [
+        1,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "north",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "south",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "east",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "west",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_pollen",
+      "face": "up",
+      "size": [
+        2,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 78.24,
+      "eligible": true
+    },
+    {
+      "cube": "back_bloom_petal0",
+      "face": "north",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal0",
+      "face": "south",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal0",
+      "face": "east",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal0",
+      "face": "west",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal0",
+      "face": "up",
+      "size": [
+        2,
+        3
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.37,
+      "eligible": true
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "north",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "south",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "east",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "west",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal1",
+      "face": "up",
+      "size": [
+        2,
+        3
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.37,
+      "eligible": true
+    },
+    {
+      "cube": "back_bloom_petal2",
+      "face": "north",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal2",
+      "face": "south",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal2",
+      "face": "east",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal2",
+      "face": "west",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal2",
+      "face": "up",
+      "size": [
+        3,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.37,
+      "eligible": true
+    },
+    {
+      "cube": "back_bloom_petal3",
+      "face": "north",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal3",
+      "face": "south",
+      "size": [
+        3,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal3",
+      "face": "east",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal3",
+      "face": "west",
+      "size": [
+        2,
+        1
+      ],
+      "colors": 1,
+      "dominance": 1.0,
+      "luma_range": 0.0,
+      "eligible": false
+    },
+    {
+      "cube": "back_bloom_petal3",
+      "face": "up",
+      "size": [
+        3,
+        2
+      ],
+      "colors": 2,
+      "dominance": 0.5,
+      "luma_range": 69.37,
+      "eligible": true
+    }
+  ],
+  "limits": "Heuristic: selected visible-intent faces only, tiny faces exempt; variation does not prove material quality or seam continuity. Inspect actual multi-angle renders."
+}

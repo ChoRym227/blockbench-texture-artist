@@ -1,0 +1,33 @@
+{
+  "id": "pollen_moth",
+  "cubes": 34,
+  "animations": 6,
+  "uv": {
+    "faces": 204,
+    "unique_uv": 50,
+    "shared_faces": 154,
+    "errors": [],
+    "limitations": "Exact rectangle sharing allowed; artistic compatibility requires review."
+  },
+  "geometry": {
+    "elements": 34,
+    "flagged": 0,
+    "cloth_high": 0,
+    "candidates": [],
+    "limitations": "Name-based cloth heuristic and local dimensions only. Review actual role, adjacency, silhouette, joints, UVs and runtime separately. Flags are not automatic failures."
+  },
+  "surface_samples": 238,
+  "protected_before_rest": 0,
+  "protected_after_rest": 0,
+  "protected_hits": 0,
+  "protected_faces": 0,
+  "rest_partial_coverage": 368,
+  "rest_fully_covered": 8,
+  "z_counts": {},
+  "detail_faces": 55,
+  "detail_warnings": 0,
+  "unsupported": [],
+  "animation_tracks_unchanged": true,
+  "attachment_checks": 0,
+  "attachment_warnings": 0
+}

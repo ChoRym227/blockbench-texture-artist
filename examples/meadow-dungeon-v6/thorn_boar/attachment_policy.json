@@ -1,0 +1,89 @@
+{
+  "bramble_plate_-1_1": [
+    "ribcage",
+    "shoulder_hump",
+    "rump"
+  ],
+  "bramble_plate_-1_2": [
+    "ribcage",
+    "shoulder_hump",
+    "rump"
+  ],
+  "thorn_-1_2": [
+    "bramble_plate_-1_2"
+  ],
+  "bramble_plate_-1_3": [
+    "ribcage",
+    "shoulder_hump",
+    "rump"
+  ],
+  "thorn_-1_3": [
+    "bramble_plate_-1_3"
+  ],
+  "bramble_plate_1_1": [
+    "ribcage",
+    "shoulder_hump",
+    "rump"
+  ],
+  "thorn_1_1": [
+    "bramble_plate_1_1"
+  ],
+  "bramble_plate_1_2": [
+    "ribcage",
+    "shoulder_hump",
+    "rump"
+  ],
+  "thorn_1_2": [
+    "bramble_plate_1_2"
+  ],
+  "bramble_plate_1_3": [
+    "ribcage",
+    "shoulder_hump",
+    "rump"
+  ],
+  "thorn_1_3": [
+    "bramble_plate_1_3"
+  ],
+  "back_bloom_pollen": [
+    "back_bloom_petal1",
+    "back_bloom_petal2",
+    "back_bloom_petal0",
+    "back_bloom_petal3"
+  ],
+  "back_bloom_petal0": [
+    "bramble_plate_-1_3",
+    "bramble_plate_1_2",
+    "bramble_plate_-1_1",
+    "bramble_plate_1_3",
+    "bramble_plate_-1_2",
+    "bramble_plate_1_1",
+    "back_bloom_pollen"
+  ],
+  "back_bloom_petal1": [
+    "bramble_plate_-1_3",
+    "bramble_plate_1_2",
+    "bramble_plate_-1_1",
+    "bramble_plate_1_3",
+    "bramble_plate_-1_2",
+    "bramble_plate_1_1",
+    "back_bloom_pollen"
+  ],
+  "back_bloom_petal2": [
+    "bramble_plate_-1_3",
+    "bramble_plate_1_2",
+    "bramble_plate_-1_1",
+    "bramble_plate_1_3",
+    "bramble_plate_-1_2",
+    "bramble_plate_1_1",
+    "back_bloom_pollen"
+  ],
+  "back_bloom_petal3": [
+    "bramble_plate_-1_3",
+    "bramble_plate_1_2",
+    "bramble_plate_-1_1",
+    "bramble_plate_1_3",
+    "bramble_plate_-1_2",
+    "bramble_plate_1_1",
+    "back_bloom_pollen"
+  ]
+}

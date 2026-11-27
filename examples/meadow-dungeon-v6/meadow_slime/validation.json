@@ -1,0 +1,35 @@
+{
+  "id": "meadow_slime",
+  "cubes": 12,
+  "animations": 5,
+  "uv": {
+    "faces": 72,
+    "unique_uv": 34,
+    "shared_faces": 38,
+    "errors": [],
+    "limitations": "Exact rectangle sharing allowed; artistic compatibility requires review."
+  },
+  "geometry": {
+    "elements": 12,
+    "flagged": 0,
+    "cloth_high": 0,
+    "candidates": [],
+    "limitations": "Name-based cloth heuristic and local dimensions only. Review actual role, adjacency, silhouette, joints, UVs and runtime separately. Flags are not automatic failures."
+  },
+  "surface_samples": 139,
+  "protected_before_rest": 0,
+  "protected_after_rest": 0,
+  "protected_hits": 0,
+  "protected_faces": 0,
+  "rest_partial_coverage": 93,
+  "rest_fully_covered": 4,
+  "z_counts": {
+    "opposing_contact": 142
+  },
+  "detail_faces": 35,
+  "detail_warnings": 0,
+  "unsupported": [],
+  "animation_tracks_unchanged": true,
+  "attachment_checks": 0,
+  "attachment_warnings": 0
+}

@@ -1,0 +1,981 @@
+{
+  "samples": 139,
+  "counts": {
+    "partial_coverage": 93,
+    "fully_covered": 4
+  },
+  "issues": [
+    {
+      "cube": "gel_base",
+      "face": "north",
+      "other": "gel_body",
+      "fraction": 0.499985,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "gel_base",
+      "face": "south",
+      "other": "gel_body",
+      "fraction": 0.499985,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "gel_base",
+      "face": "east",
+      "other": "gel_body",
+      "fraction": 0.499985,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "gel_base",
+      "face": "west",
+      "other": "gel_body",
+      "fraction": 0.499985,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "gel_base",
+      "face": "up",
+      "other": "gel_body",
+      "fraction": 1.0,
+      "kind": "fully_covered",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "gel_body",
+      "face": "up",
+      "other": "gel_crown",
+      "fraction": 0.714257,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "gel_body",
+      "face": "down",
+      "other": "gel_base",
+      "fraction": 0.785683,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "gel_crown",
+      "face": "north",
+      "other": "gel_body",
+      "fraction": 0.49997,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "gel_crown",
+      "face": "south",
+      "other": "gel_body",
+      "fraction": 0.49997,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "gel_crown",
+      "face": "east",
+      "other": "gel_body",
+      "fraction": 0.49997,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "gel_crown",
+      "face": "west",
+      "other": "gel_body",
+      "fraction": 0.49997,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "gel_crown",
+      "face": "up",
+      "other": "gel_crown_high",
+      "fraction": 0.524979,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "gel_crown",
+      "face": "up",
+      "other": "sprout_stem",
+      "fraction": 0.012784,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "gel_crown",
+      "face": "down",
+      "other": "gel_body",
+      "fraction": 1.0,
+      "kind": "fully_covered",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "gel_crown_high",
+      "face": "north",
+      "other": "gel_crown",
+      "fraction": 0.49999,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "gel_crown_high",
+      "face": "south",
+      "other": "gel_crown",
+      "fraction": 0.49999,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "gel_crown_high",
+      "face": "east",
+      "other": "gel_crown",
+      "fraction": 0.49999,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "gel_crown_high",
+      "face": "west",
+      "other": "gel_crown",
+      "fraction": 0.49999,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "gel_crown_high",
+      "face": "up",
+      "other": "sprout_stem",
+      "fraction": 0.064747,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "gel_crown_high",
+      "face": "down",
+      "other": "gel_crown",
+      "fraction": 1.0,
+      "kind": "fully_covered",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "sprout_stem",
+      "face": "north",
+      "other": "gel_crown_high",
+      "fraction": 0.154055,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "sprout_stem",
+      "face": "south",
+      "other": "gel_crown",
+      "fraction": 0.030094,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "sprout_stem",
+      "face": "south",
+      "other": "gel_crown_high",
+      "fraction": 0.234055,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "sprout_stem",
+      "face": "south",
+      "other": "sprout_leaf_l",
+      "fraction": 0.084598,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "sprout_stem",
+      "face": "south",
+      "other": "sprout_leaf_r",
+      "fraction": 0.071551,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "sprout_stem",
+      "face": "east",
+      "other": "gel_crown",
+      "fraction": 0.00566,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "sprout_stem",
+      "face": "east",
+      "other": "gel_crown_high",
+      "fraction": 0.194055,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "sprout_stem",
+      "face": "east",
+      "other": "sprout_leaf_r",
+      "fraction": 0.20038,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "sprout_stem",
+      "face": "west",
+      "other": "gel_crown",
+      "fraction": 0.00566,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "sprout_stem",
+      "face": "west",
+      "other": "gel_crown_high",
+      "fraction": 0.194055,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "sprout_stem",
+      "face": "west",
+      "other": "sprout_leaf_l",
+      "fraction": 0.200716,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "sprout_stem",
+      "face": "down",
+      "other": "gel_crown",
+      "fraction": 0.376175,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "sprout_stem",
+      "face": "down",
+      "other": "gel_crown_high",
+      "fraction": 1.0,
+      "kind": "fully_covered",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "sprout_leaf_l",
+      "face": "north",
+      "other": "sprout_stem",
+      "fraction": 0.221583,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "sprout_leaf_l",
+      "face": "east",
+      "other": "sprout_stem",
+      "fraction": 0.351766,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "sprout_leaf_l",
+      "face": "up",
+      "other": "sprout_stem",
+      "fraction": 0.092507,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "sprout_leaf_l",
+      "face": "down",
+      "other": "sprout_stem",
+      "fraction": 0.050896,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "sprout_leaf_r",
+      "face": "north",
+      "other": "sprout_stem",
+      "fraction": 0.22175,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "sprout_leaf_r",
+      "face": "west",
+      "other": "sprout_stem",
+      "fraction": 0.475623,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "sprout_leaf_r",
+      "face": "up",
+      "other": "sprout_stem",
+      "fraction": 0.133392,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "sprout_leaf_r",
+      "face": "down",
+      "other": "sprout_stem",
+      "fraction": 0.058495,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_pollen",
+      "face": "north",
+      "other": "bloom_petal0",
+      "fraction": 0.095632,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_pollen",
+      "face": "north",
+      "other": "bloom_petal1",
+      "fraction": 0.095632,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_pollen",
+      "face": "north",
+      "other": "bloom_petal3",
+      "fraction": 0.404882,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_pollen",
+      "face": "south",
+      "other": "bloom_petal0",
+      "fraction": 0.095632,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_pollen",
+      "face": "south",
+      "other": "bloom_petal1",
+      "fraction": 0.095632,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_pollen",
+      "face": "south",
+      "other": "bloom_petal2",
+      "fraction": 0.404882,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_pollen",
+      "face": "east",
+      "other": "bloom_petal0",
+      "fraction": 0.404882,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_pollen",
+      "face": "east",
+      "other": "bloom_petal2",
+      "fraction": 0.095632,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_pollen",
+      "face": "east",
+      "other": "bloom_petal3",
+      "fraction": 0.095632,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_pollen",
+      "face": "west",
+      "other": "bloom_petal1",
+      "fraction": 0.404882,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_pollen",
+      "face": "west",
+      "other": "bloom_petal2",
+      "fraction": 0.095632,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_pollen",
+      "face": "west",
+      "other": "bloom_petal3",
+      "fraction": 0.095632,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_pollen",
+      "face": "down",
+      "other": "bloom_petal0",
+      "fraction": 0.26116,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_pollen",
+      "face": "down",
+      "other": "bloom_petal1",
+      "fraction": 0.26116,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_pollen",
+      "face": "down",
+      "other": "bloom_petal2",
+      "fraction": 0.26116,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_pollen",
+      "face": "down",
+      "other": "bloom_petal3",
+      "fraction": 0.26116,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal0",
+      "face": "north",
+      "other": "bloom_petal3",
+      "fraction": 0.457536,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal0",
+      "face": "south",
+      "other": "bloom_petal2",
+      "fraction": 0.457536,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal0",
+      "face": "west",
+      "other": "bloom_pollen",
+      "fraction": 0.191618,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal0",
+      "face": "west",
+      "other": "bloom_petal2",
+      "fraction": 0.298361,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal0",
+      "face": "west",
+      "other": "bloom_petal3",
+      "fraction": 0.298361,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal0",
+      "face": "up",
+      "other": "bloom_pollen",
+      "fraction": 0.198359,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal0",
+      "face": "up",
+      "other": "bloom_petal2",
+      "fraction": 0.09975,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal0",
+      "face": "up",
+      "other": "bloom_petal3",
+      "fraction": 0.09975,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal0",
+      "face": "down",
+      "other": "bloom_petal2",
+      "fraction": 0.068034,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal0",
+      "face": "down",
+      "other": "bloom_petal3",
+      "fraction": 0.068034,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal1",
+      "face": "north",
+      "other": "bloom_petal3",
+      "fraction": 0.457536,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal1",
+      "face": "south",
+      "other": "bloom_petal2",
+      "fraction": 0.457536,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal1",
+      "face": "east",
+      "other": "bloom_pollen",
+      "fraction": 0.191618,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal1",
+      "face": "east",
+      "other": "bloom_petal2",
+      "fraction": 0.298361,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal1",
+      "face": "east",
+      "other": "bloom_petal3",
+      "fraction": 0.298361,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal1",
+      "face": "up",
+      "other": "bloom_pollen",
+      "fraction": 0.198359,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal1",
+      "face": "up",
+      "other": "bloom_petal2",
+      "fraction": 0.09975,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal1",
+      "face": "up",
+      "other": "bloom_petal3",
+      "fraction": 0.09975,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal1",
+      "face": "down",
+      "other": "bloom_petal2",
+      "fraction": 0.068034,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal1",
+      "face": "down",
+      "other": "bloom_petal3",
+      "fraction": 0.068034,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal2",
+      "face": "north",
+      "other": "bloom_pollen",
+      "fraction": 0.191618,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal2",
+      "face": "north",
+      "other": "bloom_petal0",
+      "fraction": 0.298361,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal2",
+      "face": "north",
+      "other": "bloom_petal1",
+      "fraction": 0.298361,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal2",
+      "face": "east",
+      "other": "bloom_petal0",
+      "fraction": 0.457536,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal2",
+      "face": "west",
+      "other": "bloom_petal1",
+      "fraction": 0.457536,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal2",
+      "face": "up",
+      "other": "bloom_pollen",
+      "fraction": 0.198359,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal2",
+      "face": "up",
+      "other": "bloom_petal0",
+      "fraction": 0.09975,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal2",
+      "face": "up",
+      "other": "bloom_petal1",
+      "fraction": 0.09975,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal2",
+      "face": "down",
+      "other": "bloom_petal0",
+      "fraction": 0.068034,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal2",
+      "face": "down",
+      "other": "bloom_petal1",
+      "fraction": 0.068034,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal3",
+      "face": "south",
+      "other": "bloom_pollen",
+      "fraction": 0.191618,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal3",
+      "face": "south",
+      "other": "bloom_petal0",
+      "fraction": 0.298361,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal3",
+      "face": "south",
+      "other": "bloom_petal1",
+      "fraction": 0.298361,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal3",
+      "face": "east",
+      "other": "bloom_petal0",
+      "fraction": 0.457536,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal3",
+      "face": "west",
+      "other": "bloom_petal1",
+      "fraction": 0.457536,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal3",
+      "face": "up",
+      "other": "bloom_pollen",
+      "fraction": 0.198359,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal3",
+      "face": "up",
+      "other": "bloom_petal0",
+      "fraction": 0.09975,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal3",
+      "face": "up",
+      "other": "bloom_petal1",
+      "fraction": 0.09975,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal3",
+      "face": "down",
+      "other": "bloom_petal0",
+      "fraction": 0.068034,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    },
+    {
+      "cube": "bloom_petal3",
+      "face": "down",
+      "other": "bloom_petal1",
+      "fraction": 0.068034,
+      "kind": "partial_coverage",
+      "clip": "rest",
+      "time": 0.0,
+      "hits": 1
+    }
+  ],
+  "unsupported": [],
+  "limits": "All textured faces at rest; only configured protected faces during numeric linear sampled animation. Pairwise coverage, not union or visibility; no continuous-time or alpha-mask proof. Full coverage can be intentional. Missing policy is not a pass."
+}

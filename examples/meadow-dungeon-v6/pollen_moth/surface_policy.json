@@ -1,0 +1,123 @@
+{
+  "wing_fore_-1_base": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "wing_fore_-1_outer": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "wing_fore_-1_tip": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "wing_hind_-1_base": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "wing_hind_-1_outer": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "wing_fore_1_base": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "wing_fore_1_outer": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "wing_fore_1_tip": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "wing_hind_1_base": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "wing_hind_1_outer": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  },
+  "crest": {
+    "protected_faces": [],
+    "allow": {},
+    "detail_faces": [
+      "north",
+      "south",
+      "east",
+      "west",
+      "up"
+    ]
+  }
+}

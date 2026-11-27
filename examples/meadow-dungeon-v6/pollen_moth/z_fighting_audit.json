@@ -1,0 +1,8 @@
+{
+  "samples": 238,
+  "counts": {},
+  "unique_by_kind": {},
+  "issues": [],
+  "unsupported": [],
+  "limits": "Numeric linear XYZ Euler approximation; normals within 0.1 degrees of parallel or antiparallel, exact distance <= 0.0001, near distance <= configured threshold; no occlusion, alpha-mask, runtime or continuous-time guarantee. Opposing contact requires separate review."
+}
