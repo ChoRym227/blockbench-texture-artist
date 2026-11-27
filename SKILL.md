@@ -1,8 +1,14 @@
 ---
 name: blockbench-texture-artist
-description: Create, revise and validate high-quality pixel-art textures and UV atlases for Blockbench bbmodel Minecraft entities, monsters, bosses and equipment, especially ModelEngine 4. Trigger for reference-image-based editable bbmodel creation, humanoid anatomy, cloak and robe geometry, model revision, texturing, UV mapping or model quality review, weapon design, grip alignment, and animation review; not for unrelated image generation.
+description: Create, revise and validate high-quality pixel-art textures and UV atlases for Blockbench bbmodel Minecraft entities, monsters, bosses and equipment, especially ModelEngine 4. Trigger for reference-image-based editable bbmodel creation, humanoid anatomy, cloak and robe geometry, model revision, texturing, UV mapping or model quality review, weapon design, grip alignment, geometry integrity, Z-fighting prevention, surface penetration, multi-face readability, and animation review; not for unrelated image generation.
 ---
 # Blockbench Texture Artist
+
+## V6 mandatory surface gate
+Read `references/surface-penetration.md` and `references/multiface-readability.md` for every model or geometry/texture revision. Retain V5. Define named protected surfaces and supports, design layered geometry with its supporting body, paint all exposed material faces, and inspect oblique/elevated detail renders. Run `check_interpenetration.py`, `check_attachment.py`, `check_multiface_readability.py` plus V5 tools. The first checks all textured faces at rest and configured protected faces during sampled animations; the second checks explicit support contacts, and the third reports selected-face texture heuristics. Never treat missing policies or zero warnings as artistic approval. Document allowed contacts and remaining limits.
+
+## V5 mandatory geometry gate
+Before UV or animation release, read `references/geometry-integrity.md` and run `scripts/check_z_fighting.py`. Same-facing coplanar/near-coplanar overlaps must be corrected, not hidden by texture or uniform epsilon shifts. Check transformed cube faces in rest and animated poses (20 Hz plus keyframes), record opposing contacts separately, and rerun UV and hierarchy validation after each geometry change. No clean-runtime claim without runtime tests.
 
 ## 기본 환경 및 목표
 Minecraft Paper 1.21.4 / ModelEngine 4 / Blockbench. 사용자 지정 환경이 우선한다. 레퍼런스의 실루엣, 색감, 재질과 장식 배치를 보존하고, 실제 편집 가능한 모델과 일관된 픽셀 텍스처를 제작한다. 단일 이미지에 없는 면은 추정임을 명시한다.
@@ -126,3 +132,9 @@ Minecraft Paper 1.21.4 / ModelEngine 4 / Blockbench. 사용자 지정 환경이 
 
 ## V4 Combat Motion Gate
 Read [Combat stance and choreography](references/combat-stance-and-choreography.md) for every armed humanoid motion task. A zero-collision report alone is not a visual approval. Reference animation access, actual retargeting, and independently authored approximations must be clearly distinguished.
+
+
+## V5 — Z-fighting 필수 검수
+- `references/geometry-integrity.md`를 읽고 신규 제작과 수정에 적용한다. UV 공유와 실제 3D 동일 평면 중첩을 구분한다.
+- `python scripts/check_z_fighting.py MODEL --hz 20 --strict-near --output z_fighting_audit.json` 실행. 기본 자세 및 모든 모션의 실제 변환된 면의 중첩 후보를 검사한다. 동일 방향의 동일/근접 평면 면적 중첩은 해결 후 재검사한다. 반대 방향 접촉 및 미지원 기능은 별도로 기록한다.
+- 장식 복원 시 원래 부모 본, UUID 및 pivot을 보존하고 UV 크기 검사도 재실행한다. 실제 런타임 확인 불가 시 반드시 명시한다.

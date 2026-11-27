@@ -1,3 +1,15 @@
+# V6 — Surface integrity & multi-face readability
+
+- Add affine face/solid clipping, named protected faces, SAT support-contact check, selected-face UV statistics, and 5 new unit tests. Preserve V5 checks.
+- Add mandatory layered geometry and exposed-face texture instructions; reduce shallow decorative cubes rather than introduce overlays.
+- Includes revised meadow example in repository distribution.
+
+# V5 — Geometry integrity / Z-fighting
+- Mandatory transformed-face overlap gate, projected polygon clipping, rest + animated 20 Hz/keyframe sampling.
+- Exact, near, and opposing-contact candidates separated; stricter release flag and synthetic tests.
+- Targeted topology/UV repair, parent-bone preservation, large-creature attack and dorsal-decoration guidance.
+- Retains all V4 rules. Runtime and unsupported interpolation limits documented.
+
 # V4 motion quality update
 - Added reference provenance, weapon-led choreography, planted foot targets, wrist neutral frame, motion comparison and transition review.
 
